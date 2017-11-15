@@ -1,5 +1,5 @@
 {
-  [
+  “result”: [
     {
       "idChannel" : "faptv",
       "name": "Fap TV",
