@@ -1,5 +1,5 @@
 {
-  "list_channel": [
+  [
     {
       "idChannel" : "faptv",
       "name": "Fap TV",
