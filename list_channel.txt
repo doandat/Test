@@ -1,12 +1,12 @@
 {
-  “result”: [
+  "result": [
     {
-      "idChannel" : "faptv",
+      "idChannel": "faptv",
       "name": "Fap TV",
       "image": "url"
     },
     {
-      "idChannel" : "5sonline",
+      "idChannel": "5sonline",
       "name": "5s Online",
       "image": "url"
     }
