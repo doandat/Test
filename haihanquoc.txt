@@ -1,20 +1,34 @@
 {
   "result": [
     {
-      "idvideo": "Dz14wW0CD0w",
-      "name": "Hài Hàn Xẻng : OMG Vếu",
+      "idChannel": "haihanquoctonghop",
+      "name": "Video Hot",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "sve4q4gRmNw",
-      "name": "Chị gái 3 phút - SNL vietsub",
+      "idChannel": "gta",
+      "name": "GTA hàn xẻng",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "qZzi3cOYlEU",
-      "name": "SNL - 3 anh nhây ",
+      "idChannel": "bangai3phut",
+      "name": "Bạn gái 3 phút",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "MJGD5Yf4hSw",
-      "name": "Cao thủ quay cóp nhưng giám thị còn cao thủ hơn",
+      "idChannel": "chigai3phut",
+      "name": "Chị gái 3 phút",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoc.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "bantrai3phut",
+      "name": "Bạn trai 3 phut",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg",
+      "hasSubCategory" : false
     }
   ]
 }

@@ -3,22 +3,26 @@
     {
       "idChannel": "haitrungquoc",
       "name": "Hài Trung Quốc",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png"
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png",
+      "hasSubCategory" : false
     },
     {
       "idChannel": "haihanquoc",
       "name": "Hài Hàn Xẻng",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoc.jpg"
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoc.jpg",
+      "hasSubCategory" : true
     },
     {
       "idChannel": "faptv",
       "name": "Fap TV",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg"
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg",
+      "hasSubCategory" : false
     },
     {
       "idChannel": "5sonline",
       "name": "5s Online",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg"
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg",
+      "hasSubCategory" : false
     }
   ]
 }
