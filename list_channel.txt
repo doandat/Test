@@ -1,16 +1,16 @@
 {
   "result": [
     {
-      "idChannel": "haitrungquoc",
-      "name": "Hài Trung Quốc",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png",
-      "hasSubCategory" : false
-    },
-    {
       "idChannel": "haihanquoc",
       "name": "Hài Hàn Xẻng",
       "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoc.jpg",
       "hasSubCategory" : true
+    },
+    {
+      "idChannel": "haitrungquoc",
+      "name": "Hài Trung Quốc",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png",
+      "hasSubCategory" : false
     },
     {
       "idChannel": "faptv",
@@ -19,9 +19,27 @@
       "hasSubCategory" : false
     },
     {
+      "idChannel": "trangtv",
+      "name": "Trắng TV",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/trangtv.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "loaphuong",
+      "name": "Loa Phường",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/loaphuong.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "kemxoitv",
+      "name": "Kem xôi TV",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/kemxoitv.jpg",
+      "hasSubCategory" : false
+    },
+    {
       "idChannel": "5sonline",
       "name": "5s Online",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/5sonline.jpg",
       "hasSubCategory" : false
     }
   ]

@@ -2,32 +2,32 @@
   "result": [
     {
       "idChannel": "haihanquoctonghop",
-      "name": "Video Hot",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png",
+      "name": "Hài hàn quốc tổng hợp",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoctonghop.png",
       "hasSubCategory" : false
     },
     {
       "idChannel": "gta",
       "name": "GTA hàn xẻng",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haitrungquoc.png",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/gta.png",
       "hasSubCategory" : false
     },
     {
       "idChannel": "bangai3phut",
       "name": "Bạn gái 3 phút",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/bangai3phut.jpg",
       "hasSubCategory" : false
     },
     {
       "idChannel": "chigai3phut",
       "name": "Chị gái 3 phút",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoc.jpg",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/chigai3phut.jpg",
       "hasSubCategory" : false
     },
     {
       "idChannel": "bantrai3phut",
       "name": "Bạn trai 3 phut",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/faptv.jpg",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/bantrai3phut.jpg",
       "hasSubCategory" : false
     }
   ]
