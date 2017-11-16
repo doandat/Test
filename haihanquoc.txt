@@ -2,14 +2,14 @@
   "result": [
     {
       "idChannel": "haihanquoctonghop",
-      "name": "Hài hàn quốc tổng hợp",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoctonghop.png",
+      "name": "Hài Hàn Quốc tổng hợp",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haihanquoctonghop.jpg",
       "hasSubCategory" : false
     },
     {
       "idChannel": "gta",
       "name": "GTA hàn xẻng",
-      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/gta.png",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/gta.jpg",
       "hasSubCategory" : false
     },
     {
