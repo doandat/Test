@@ -9,10 +9,6 @@
       "name": "Phim Hài Hay | Đại Gia Chân Đất 4 Full HD | Chiến Thắng , Bình Trọng , Quang Tèo"
     },
     {
-      "idvideo": "n7xghcqhx7Q",
-      "name": "Private video"
-    },
-    {
       "idvideo": "PuvATw6hIDo",
       "name": "Phim Hài 2016 | Đi Lễ Quan Full HD | Phim Hài Hoài Linh, Thúy Nga 2016"
     },
