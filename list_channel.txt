@@ -41,6 +41,51 @@
       "name": "5s Online",
       "image": "https://raw.githubusercontent.com/doandat/Test/master/img/5sonline.jpg",
       "hasSubCategory" : false
-    }
+    },
+
+    {
+      "idChannel": "rauoivenhra",
+      "name": "Râu ơi Vểnh Ra - Phim Hài Mới Nhất 2017",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/rauoivenhra.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "haichienthang",
+      "name": "Phim Hài Hay Nhất | Phim Hài Chiến Thắng, Bình Trọng Hài Vỡ Bụng",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/haichienthang.jpg",
+      "hasSubCategory" : false
+    },
+
+    {
+      "idChannel": "hai2016",
+      "name": "Phim Hài 2016 Mới Nhất",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/hai2016.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "langevo",
+      "name": "Làng ế vợ Full HD | Phim Hài Mới Nhất 2017",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/langevo.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "daigiachandat",
+      "name": "Đại Gia Chân Đất Full HD | Phim Hài Mới Nhất 2017",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/daigiachandat.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "hoailinh",
+      "name": "Hài Hoài Linh",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/hoailinh.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "xomhom",
+      "name": "Xóm hóm",
+      "image": "https://raw.githubusercontent.com/doandat/Test/master/img/xomhom.jpg",
+      "hasSubCategory" : false
+    },
+
   ]
 }
