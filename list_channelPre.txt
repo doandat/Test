@@ -22,7 +22,7 @@
       "idChannel": "faptv",
       "name": "Fap TV",
       "image": "img/faptv.jpg",
-      "hasSubCategory" : true
+      "hasSubCategory" : false
     },
     {
       "idChannel": "trangtv",

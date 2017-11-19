@@ -1,204 +1,46 @@
 {
   "result": [
     {
-      "idvideo": "VvaRrmo_fUk",
-      "name": "Chả hiểu người Việt tự hào gì, khi Thủ Tướng Úc ăn bánh mỳ...| TRẮNG NEWS 999 | 16/11/2017"
+      "idChannel": "trangnew999",
+      "name": "TRẮNG NEWS 999 - Tin hot mỗi ngày !!!",
+      "image": "img/trangnew999.jpg",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "zAe7KJEL4H8",
-      "name": "Ngô Thanh Vân bị lộ phim, SƠ Ý hay CỐ TÌNH...| TRẮNG NEWS 999 | 14/11/2017"
+      "idChannel": "nhactrang",
+      "name": "NHẠC TRẮNG - Âm nhạc Thời sự trong TUẦN...",
+      "image": "img/nhactrang.jpg",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "oxzAEya_2kw",
-      "name": "'XÚC ĐỘNG' hình ảnh Ninja Lead 'NHƯỜNG ĐƯỜNG' cho tàu hỏa...| TRẮNG NEWS 999 | 13/11/2017"
+      "idChannel": "thienbienvanhoa",
+      "name": "Thiên Biến Vạn Hóa | Phim hài",
+      "image": "img/thienbienvanhoa.jpg",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "j_fNeJik0Jk",
-      "name": "[SỐ ĐẶC BIỆT] - Jack Ma cũng chỉ là thằng nói phét"
+      "idChannel": "trangtrai",
+      "name": "TRẮNG TRẢI - Tâm sự người trong cuộc !!!",
+      "image": "img/trangtrai.jpg",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "8NdQR0M9plw",
-      "name": "Các anh hùng bàn phím cũng 'TẮT ĐIỆN' khi gặp Linh Ka...|TRẮNG NEWS 999| 10/11/2017"
+      "idChannel": "trangchuotbach",
+      "name": "CHUỘT BẠCH - Thử mọi thứ !!!",
+      "image": "img/trangchuotbach.jpg",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "0ugxB25eyHM",
-      "name": "Xe Tổng Thống Donal Trump 'bị mất' cần gạt nước khi đến Việt Nam...| TRẮNG NEWS 999 |09/11/2017"
+      "idChannel": "trangtrongtrang",
+      "name": "TRONG TRẮNG - Cảm xúc và phản ứng !!!",
+      "image": "img/trangtrongtrang.jpg",
+      "hasSubCategory" : false
     },
     {
-      "idvideo": "XAiNNVqS_-0",
-      "name": "Chi Pu ăn học bài bản có hát hay hơn Linh Ka...| TRẮNG NEWS 999 | 07/11/2017"
-    },
-    {
-      "idvideo": "LXbGtLH4WnU",
-      "name": "Jack Ma biết gì về Việt Nam mà phán.. | TRẮNG NEWS 999 | 06112017"
-    },
-    {
-      "idvideo": "84ftDvkmZzo",
-      "name": "[SỐ ĐẶC BIỆT] - Hoa hậu và câu chuyện đi đổ rác đến 4 ngày chưa về"
-    },
-    {
-      "idvideo": "tnLbu8WswRw",
-      "name": "Hoa hậu bán mỹ phẩm lừa đảo, hay các ông đang bị dắt mũi...|TRẮNG NEWS 999| 03/11/2017"
-    },
-    {
-      "idvideo": "isD0WhSADaM",
-      "name": "Dã tâm giết máy bay để trả nợ 60 triệu, thanh niên sướng không biết hưởng|TRẮNG NEWS 999| 02/11/2017"
-    },
-    {
-      "idvideo": "jYWWX_mnwvA",
-      "name": "Hoa Hậu Thu Ngân, lấy chồng hơn 19 tuổi KHÔNG VÌ TIỀN, thì vì cái gì...| TRẮNG NEWS 999 | 31/10/2017"
-    },
-    {
-      "idvideo": "3Qs8C1CdE54",
-      "name": "Hoa Hậu Đại Dương -ÊU ƠI - 'Dễ Thương hết nấc'...| TRẮNG NEWS 999 | 30/10/2017"
-    },
-    {
-      "idvideo": "n8F7l2YyqiQ",
-      "name": "[SỐ ĐẶC BIỆT] - Hết hồn Tuấn Tiền Tỉ và Hải Dớ chém gió bung nóc vụ khăn lụa Khải Silk"
-    },
-    {
-      "idvideo": "6MgjEgAgTaQ",
-      "name": "Đàn ông đi xe Lead bắt cướp, vẫn thua các chị em...| TRẮNG NEWS 999 | 27/10/2017"
-    },
-    {
-      "idvideo": "HQkJ9NtvBjM",
-      "name": "Á Hậu Huyền My phải đeo khăn Khải Silk đi thi mới đủ tuổi đăng quang...| TRẮNG NEWS 999 | 26/10/2017"
-    },
-    {
-      "idvideo": "FUsq2Mk6KQA",
-      "name": "TRÂN TRỌNG tuyên dương người phụ nữ mở BARIE đâm thẳng vào đoàn tàu...| TRẮNG NEWS 999 | 24/10/2017"
-    },
-    {
-      "idvideo": "cFUWEs4kFKQ",
-      "name": "Hết hồn với clip vác dao đi tán gái của thanh niên Thái Bình...| TRẮNG NEWS 999 | 23/10/2017"
-    },
-    {
-      "idvideo": "6TALDxhoUAY",
-      "name": "Dân chơi hổ báo nhảy lên sân khấu đấm Duy Mạnh ngay trong lúc đang hát...|TRẮNG NEWS 999|20/10/2017"
-    },
-    {
-      "idvideo": "b2cnKZEcJi4",
-      "name": "Rõ ràng bê tông rơi trúng đầu, nhưng nhà trường 'phỏng đoán' là tự tử..| TRẮNG NEWS 999 | 19/10/2017"
-    },
-    {
-      "idvideo": "9rxXDqqOghQ",
-      "name": "Đừng hỏi em tại sao Everwing lại khiến người ta ghét như vậy...| TRẮNG NEWS 999| 17/10/2017"
-    },
-    {
-      "idvideo": "MFCKTgGWP4g",
-      "name": "[Số Đặc Biệt] - Con gái chủ động chuyện tình dục có phải là dâm đãng?"
-    },
-    {
-      "idvideo": "jfoKfl1ey_c",
-      "name": "Đừng đội lốt cơm từ thiện 2 nghìn để giết chết nền kinh tế...| TRẮNG NEWS 999 | 13/10/2017"
-    },
-    {
-      "idvideo": "P8OAKJqeCIc",
-      "name": "Chi Pu -'Từ Hôm Nay'-Chỉ là thử nghiệm, sao phải chửi người ta ghê vậy....|TRẮNG NEWS 999|12/10/2017"
-    },
-    {
-      "idvideo": "RPYLdDNuh7I",
-      "name": "Cười há mồm với lý do đi học muộn: 'Người tính không bằng trời tính'...| TRẮNG NEWS 999 | 10/10/2017"
-    },
-    {
-      "idvideo": "aOKIfFP3Q6E",
-      "name": "Phó Giáo Sư Văn Như Cương - Thầy giáo Toán tài hoa qua đời ở tuổi 80..|TRẮNG NEWS 999| 09/10/2017"
-    },
-    {
-      "idvideo": "2YO0JVacXAE",
-      "name": "[SỐ ĐẶC BIỆT] - 'Chén chẩm, xoạc, cấy' - Cùng chém gió với Tuấn Tiền Tỉ, Việt Johan và Nguyễn Chang"
-    },
-    {
-      "idvideo": "owcd3DOKKtE",
-      "name": "Thích Ra Phố Ngày Trung Thu Thì Sao, Đông Nhưng Tôi Thích  | TRẮNG NEWS 999 | 05/10/2017"
-    },
-    {
-      "idvideo": "2fFQ7UAOijA",
-      "name": "Ngọc Trinh tự tin dậy cách xin tiền người yêu mua biệt thự 40 tỷ | TRẮNG NEWS 999 | 03/10/2017"
-    },
-    {
-      "idvideo": "3Y3YFQ8HNzI",
-      "name": "Cường Đô La có lừa đảo...????  | TRẮNG NEWS 999 | 02/10/2017"
-    },
-    {
-      "idvideo": "OU_fXZqUhpY",
-      "name": "[SỐ ĐẶC BIỆT] - Ăn thịt chó, bạn ủng hộ nó không..."
-    },
-    {
-      "idvideo": "-Y-FN_5Ngxc",
-      "name": "Giới trẻ ngày càng sang chảnh..Tiền ăn trộm hay họ tự kiếm...| TRẮNG NEWS 999 |"
-    },
-    {
-      "idvideo": "3pvGTOefqMs",
-      "name": "Osin lục tung đồ chủ nhà....Ô kìa sao lại chửi người ta...| TRẮNG NEWS 999 | 28/09/2017"
-    },
-    {
-      "idvideo": "9jCUXy8OisE",
-      "name": "Uống trà sữa thì sao, liên quan gì mà chửi bới giới trẻ...| TRẮNG NEWS 999 | 25/09/2017"
-    },
-    {
-      "idvideo": "p0KXSR15gDY",
-      "name": "[SỐ ĐẶC BIỆT] - Nghĩa cử cao đẹp của người tử tù Thọ 'sứt' và chuyện vong nhập.."
-    },
-    {
-      "idvideo": "X2ns2zSiPI0",
-      "name": "Chả hiểu sao cứ bán hàng online là bị vong nhập | TRẮNG NEWS 999 | 22/09/2017"
-    },
-    {
-      "idvideo": "EUeyuhu1DDM",
-      "name": "Em trai mưa - cuộc tình thời học sinh | TRẮNG NEWS 999 | 20/09/2017 | TIN TỨC HÀI"
-    },
-    {
-      "idvideo": "nFHXsuKIbVU",
-      "name": "Trường Giang va chạm giao thông...Người nghệ sĩ ấy...|  TRẮNG NEWS 999 | 19/09/2017"
-    },
-    {
-      "idvideo": "O7-yTwphsCQ",
-      "name": "Tình huynh đệ như Tình và Thọ 'Sứt' - điều mà nhiều người không có...| TRẮNG NEW 999 | 18/09/2017"
-    },
-    {
-      "idvideo": "VBON-Co8hx8",
-      "name": "[SỐ ĐẶC BIỆT] - Tuấn Tiền Tỉ, Tun Phạm, Lê Na thi nhau chém gió về câu chuyện con chó"
-    },
-    {
-      "idvideo": "Al54DPzdIqI",
-      "name": "Bão lớn như thế, tại sao phóng  viên vẫn phải đứng đường làm phóng sự | TRẮNG NEWS 999 | 15/09/2017"
-    },
-    {
-      "idvideo": "Bsju_M1djsM",
-      "name": "Truy nã 2 tên tử tù và câu chuyện người chồng 'ăn cắp' bị sút vêu mồm | TRẮNG NEWS  999 | 14/09/2017"
-    },
-    {
-      "idvideo": "EddyWPhjK0Q",
-      "name": "Chó không rọ mõm thả rông ngoài đường...ko lên phường hơi phí...| TRẮNG NEWS 999 | 12/09/2017"
-    },
-    {
-      "idvideo": "NknvO5WX08s",
-      "name": "Gầy như Cao Ngân mà cho xếp hàng mua đồ H&M liệu có chịu nổi...| TRẮNG NEWS 999 | 11/09/2017"
-    },
-    {
-      "idvideo": "KYlnJK1B3jM",
-      "name": "[SỐ ĐẶC BIỆT] - Hot girl Lê Na há hốc mồm nghe Tuấn Tiền Tỉ, Việt Johan chém gió về Shigeo Tokuda"
-    },
-    {
-      "idvideo": "Y3YsJewR-RM",
-      "name": "Quy định 'Nhà có người chết báo trước 3 ngày'...Ô kìa...| TRẮNG NEWS 999 | 08/09/2017"
-    },
-    {
-      "idvideo": "DFx1lpjjzSc",
-      "name": "Lừa đảo gói tăm 500 nghìn ở bờ hồ, đến bao giờ trò này mới chấm dứt...| TRẮNG NEWS 999 | 07/09/2017"
-    },
-    {
-      "idvideo": "VM07owOpt1E",
-      "name": "Shigeo Tokuda...Nếu đúng...Vĩnh biệt ông...Một huyền thoại...| TRẮNG NEWS 999 | 05/09/2017"
-    },
-    {
-      "idvideo": "Oe1GbPZkckw",
-      "name": "[SỐ ĐẶC BIỆT] - 'Người Phán Xử' - Hải Dớ nói về câu chuyện du học xong có nên về nước..."
-    },
-    {
-      "idvideo": "abLPbYLtlvY",
-      "name": "Người phán xử - Trả lời tất cả những câu hỏi vô lý của phim...| TRẮNG NEWS 999 | 01/09/2017"
+      "idChannel": "trangkid",
+      "name": "Trắng KID - Video cho thiếu nhi !!!",
+      "image": "img/trangkid.jpg",
+      "hasSubCategory" : false
     }
   ]
 }
