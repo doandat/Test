@@ -40,103 +40,97 @@
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " What are the three quickest ways of spreading a rumour (or gossip). <ul> <li>Telegram <li>Telephone <li>Tell a woman </ul> Perhaps not very politically correct in the times we live in, but worth a slight chuckle. <br /> <br />EDITOR'S NOTE: Maybe you could teach your students the phrase \"politically correct\" and discuss it. "
+      "detail": " What are the three quickest ways of spreading a rumour (or gossip). <ul> <li>Telegram <li>Telephone <li>Tell a woman </ul>"
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " If you give a man a fish, he eats for a day.<br /> If you teach a man to fish, he can always eat.<br /> If you give a man a fire, he's warm for a day.<br /> If you light a man on fire, he is warm for the rest of his life. <br /> "
+      "detail": " If you give a man a fish, he eats for a day.<br /> If you teach a man to fish, he can always eat.<br /> If you give a man a fire, he's warm for a day.<br /> If you light a man on fire, he is warm for the rest of his life."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " A: Did you hear that a baby was fed on elephant's milk and gained twenty pounds in a week.<br /> B: That's impossible. Whose baby?<br /> A: An elephant's. <br /> "
+      "detail": " A: Did you hear that a baby was fed on elephant's milk and gained twenty pounds in a week.<br /> B: That's impossible. Whose baby?<br /> A: An elephant's."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " \"Am I the first man you have ever loved?\" he said.<br /> \"Of course,\" she answered \"Why do men always ask the same question?\". <br /> "
+      "detail": " \"Am I the first man you have ever loved?\" he said.<br /> \"Of course,\" she answered \"Why do men always ask the same question?\"."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " When I was young I didn't like going to weddings.<br /> My grandmother would tell me, \"You're next\"<br /> However, she stopped doing that after I started saying the same thing to her at funerals. <br /> "
+      "detail": " When I was young I didn't like going to weddings.<br /> My grandmother would tell me, \"You're next\"<br /> However, she stopped doing that after I started saying the same thing to her at funerals."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " A: I'm in a big trouble!<br />B: Why is that?<br />A: I saw a mouse in my house!<br />B: Oh, well, all you need to do is use a trap.<br />A: I don't have one.<br />B: Well then, buy one.<br />A: Can't afford one.<br />B: I can give you mine if you want.<br />A: That sounds good.<br />B: All you need to do is just use some cheese in order to make the mouse come to the trap.<br />A: I don't have any cheese.<br />B: Okay then, take a piece of bread and put a bit of oil in it and put it in the trap.<br />A: I don't have oil.<br />B: Well, then put only a small piece of bread.<br />A: I don't have bread.<br />B: Then what is the mouse doing at your house?! <br /> "
+      "detail": " A: I'm in a big trouble!<br />B: Why is that?<br />A: I saw a mouse in my house!<br />B: Oh, well, all you need to do is use a trap.<br />A: I don't have one.<br />B: Well then, buy one.<br />A: Can't afford one.<br />B: I can give you mine if you want.<br />A: That sounds good.<br />B: All you need to do is just use some cheese in order to make the mouse come to the trap.<br />A: I don't have any cheese.<br />B: Okay then, take a piece of bread and put a bit of oil in it and put it in the trap.<br />A: I don't have oil.<br />B: Well, then put only a small piece of bread.<br />A: I don't have bread.<br />B: Then what is the mouse doing at your house?!"
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " A very drunk man comes out of the bar and sees another very drunk man.<br /> He looks up in the sky and says, \"Is that the sun or the moon?\"<br /> The other drunk man answers, \"I don't know. I'm a stranger here myself.\" <br /> <!-- above is 2008 None have been added to the other pages. Maybe below this too. --> "
+      "detail": " A very drunk man comes out of the bar and sees another very drunk man.<br /> He looks up in the sky and says, \"Is that the sun or the moon?\"<br /> The other drunk man answers, \"I don't know. I'm a stranger here myself.\" "
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "A man is talking to God.<br /> The man: \"God, how long is a million years?\"<br /> God: \"To me, it's about a minute.\"<br /> The man: \"God, how much is a million dollars?\"<br /> God: \"To me it's a penny.\"<br /> The man: \"God, may I have a penny?\"<br /> God: \"Wait a minute.\" <br /> "
+      "detail": "A man is talking to God.<br /> The man: \"God, how long is a million years?\"<br /> God: \"To me, it's about a minute.\"<br /> The man: \"God, how much is a million dollars?\"<br /> God: \"To me it's a penny.\"<br /> The man: \"God, may I have a penny?\"<br /> God: \"Wait a minute.\""
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " Fred is 32 years old and he is still single. <br /> One day a friend asked, \"Why aren't you married? Can't you find a woman who will be a good wife?\" <br /> Fred replied, \"Actually, I've found many women I wanted to marry, but when I bring them home to meet my parents, my mother doesn't like them.\" <br /> His friend thinks for a moment and says, \"I've got the perfect solution, just find a girl who's just like your mother.\" <br /> A few months later they meet again and his friend says, \"Did you find the perfect girl? Did your mother like her?\" <br /> With a frown on his face, Fred answers, \"Yes, I found the perfect girl. She was just like my mother. You were right, my mother liked her very much.\" <br /> The friend said, \"Then what's the problem?\" <br /> Fred replied, \"My father doesn't like her.\" "
+      "detail": " Fred is 32 years old and he is still single. <br /> One day a friend asked, \"Why aren't you married? Can't you find a woman who will be a good wife?\" <br /> Fred replied, \"Actually, I've found many women I wanted to marry, but when I bring them home to meet my parents, my mother doesn't like them.\" <br /> His friend thinks for a moment and says, \"I've got the perfect solution, just find a girl who's just like your mother.\" <br /> A few months later they meet again and his friend says, \"Did you find the perfect girl? Did your mother like her?\" <br /> With a frown on his face, Fred answers, \"Yes, I found the perfect girl. She was just like my mother. You were right, my mother liked her very much.\" <br /> The friend said, \"Then what's the problem?\" <br /> Fred replied, \"My father doesn't like her.\""
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " An elementary school teacher sends this note to all parents on the first day of school. <blockquote> \"If you promise not to believe everything your child says happens at school, I will promise not to believe everything your child says happens at home. </blockquote> "
+      "detail": " An elementary school teacher sends this note to all parents on the first day of school. <blockquote> \"If you promise not to believe everything your child says happens at school, I will promise not to believe everything your child says happens at home. </blockquote>"
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " A: Doctor, will I be able to play the piano after the operation?<br /> B: Yes, of course.<br /> A: Great! I never could before! <br> "
+      "detail": " A: Doctor, will I be able to play the piano after the operation?<br /> B: Yes, of course.<br /> A: Great! I never could before!"
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Why couldn't Cinderella be a good soccer player? <br /> She lost her shoe, she ran away from the ball, and her coach was a pumpkin. <br /> (Requires basic knowledge of the Cinderella story and that both ball and coach have double meanings.) <br /> <!-- mrmrharvey $$&$ yahoo.com --> "
+      "detail": "Teacher: Tell me a sentence that starts with an \"I\". <br /> Student: I is the...<br /> Teacher: Stop! Never put 'is' after an \"I\". Always put 'am' after an \"I\".<br /> Student: OK. I am the ninth letter of the alphabet."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Teacher: Tell me a sentence that starts with an \"I\". <br /> Student: I is the...<br /> Teacher: Stop! Never put 'is' after an \"I\". Always put 'am' after an \"I\".<br /> Student: OK. I am the ninth letter of the alphabet. <br /> <!-- mhassan1 -&- atlas.valenciacc.edu --> "
+      "detail": "Two factory workers are talking.<br /> The woman says, \"I can make the boss give me the day off.\"<br /> The man replies, \"And how would you do that?\"<br /> The woman says, \"Just wait and see.\" She then hangs upside-down from the ceiling.<br /> The boss comes in and says, \"What are you doing?\"<br /> The woman replies, \"I'm a light bulb.\"<br /> The boss then says, \"You've been working so much that you've gone crazy. I think you need to take the day off.\"<br /> The man starts to follow her and the boss says, \"Where are you going?\"<br /> The man says, \"I'm going home, too. I can't work in the dark.\""
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Two factory workers are talking.<br /> The woman says, \"I can make the boss give me the day off.\"<br /> The man replies, \"And how would you do that?\"<br /> The woman says, \"Just wait and see.\" She then hangs upside-down from the ceiling.<br /> The boss comes in and says, \"What are you doing?\"<br /> The woman replies, \"I'm a light bulb.\"<br /> The boss then says, \"You've been working so much that you've gone crazy. I think you need to take the day off.\"<br /> The man starts to follow her and the boss says, \"Where are you going?\"<br /> The man says, \"I'm going home, too. I can't work in the dark.\" <br> <!--t.b.r $*$ webmail.co.za--> "
+      "detail": "Two cows are standing in a field.<br> One says to the other \"Are you worried about Mad Cow Disease?\"<br> The other one says \"No, It doesn't worry me, I'm a horse!\""
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Two cows are standing in a field.<br> One says to the other \"Are you worried about Mad Cow Disease?\"<br> The other one says \"No, It doesn't worry me, I'm a horse!\" <br> <!-- trew22 $ gmail.com--> "
+      "detail": "Teacher: How can we get some clean water?<br> Student: Bring the water from the river and wash it."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Teacher: How can we get some clean water?<br> Student: Bring the water from the river and wash it. <br> "
-    },
-    {
-      "categoryid": "shortJoke",
-      "image": "",
-      "title": "",
-      "detail": "Q. What do you call a ginger bread man with one leg? <br>A. Limp Bizkit. (limp biscuit) <br>(Alternate: What do the British call a cookie that got wet?) <br> </div>"
+      "detail": "Q. What do you call a ginger bread man with one leg? <br>A. Limp Bizkit. (limp biscuit) <br>(Alternate: What do the British call a cookie that got wet?)"
     }
   ]
 }
