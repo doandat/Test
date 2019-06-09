@@ -4,37 +4,37 @@
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Some scientists decided to do the following experiments on a dog. <br /><br /> For the first experiment, they cut one of the dog's legs off, then they told the dog to walk. The dog got up and walked, so they they learned that a dog could walk with just three legs. <br /><br /> For the second experiment, they cut off a second leg from the dog, then they told the dog once more to walk. The dog was still able to walk with only two legs. <br /><br /> For the third experiment, they cut off yet another leg from the dog and once more they told the dog to walk. However, the dog wasn't able to walk with only one leg. <br /><br /> As a result of these three experiments, the scientists wrote in their final report that the dog had lost it's hearing after having three legs cut off. <br /> "
+      "detail": "Some scientists decided to do the following experiments on a dog. <br /> For the first experiment, they cut one of the dog's legs off, then they told the dog to walk. The dog got up and walked, so they they learned that a dog could walk with just three legs. <br /> For the second experiment, they cut off a second leg from the dog, then they told the dog once more to walk. The dog was still able to walk with only two legs. <br /> For the third experiment, they cut off yet another leg from the dog and once more they told the dog to walk. However, the dog wasn't able to walk with only one leg. <br /> As a result of these three experiments, the scientists wrote in their final report that the dog had lost it's hearing after having three legs cut off."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " What is the longest word in the English language? <br />SMILES: there is a mile between the first and last letters!\" <br /> "
+      "detail": " What is the longest word in the English language? <br />SMILES: there is a mile between the first and last letters!\""
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " Teacher: Maria please point to America on the map. <br /> Maria: This is it. <br /> Teacher: Well done. Now class, who found America? <br /> Class: Maria did. <br /> "
+      "detail": " Teacher: Maria please point to America on the map. <br /> Maria: This is it. <br /> Teacher: Well done. Now class, who found America? <br /> Class: Maria did."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " A Scotsman who was driving home one night, ran into a car driven by an Englishman. The Scotsman got out of the car to apologize and offered the Englishman a drink from a bottle of whisky. The Englishman was glad to have a drink.<br /> &quot;Go on,&quot said the Scot, &quot;have another drink.&quot;<br /> The Englishman drank gratefully. &quot;But don't you want one, too?&quot; he asked the Scotsman. <br />&quot;Perhaps,&quot; replied the Scotsman, &quot;after the police have gone.&quot; <br /> "
+      "detail": " A Scotsman who was driving home one night, ran into a car driven by an Englishman. The Scotsman got out of the car to apologize and offered the Englishman a drink from a bottle of whisky. The Englishman was glad to have a drink.<br /> &quot;Go on,&quot said the Scot, &quot;have another drink.&quot;<br /> The Englishman drank gratefully. &quot;But don't you want one, too?&quot; he asked the Scotsman. <br />&quot;Perhaps,&quot; replied the Scotsman, &quot;after the police have gone.&quot;"
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " A: Aren't you wearing your wedding ring on the wrong finger?<br /> B: Yes I am, I married the wrong woman. <br /> "
+      "detail": " A: Aren't you wearing your wedding ring on the wrong finger?<br /> B: Yes I am, I married the wrong woman."
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " A man was pulled over for driving too fast, even though he thought he was driving just fine.<br /><br /> Officer: You were speeding.<br /> Man: No, I wasn't.<br /> Officer: Yes, you were. I'm giving you a ticket.<br /> Man: But I wasn't speeding.<br /> Officer: Tell that to the judge! (The officer gives man the ticket.)<br /> Man: Would I get another ticket if I called you a jerk?<br /> Officer: Yes, you would.<br /> Man: What if I just thought that you were?<br /> Officer: I can't give you a ticket for what you think.<br /> Man: Fine, I think you're a jerk! <br /> "
+      "detail": " A man was pulled over for driving too fast, even though he thought he was driving just fine.<br /> Officer: You were speeding.<br /> Man: No, I wasn't.<br /> Officer: Yes, you were. I'm giving you a ticket.<br /> Man: But I wasn't speeding.<br /> Officer: Tell that to the judge! (The officer gives man the ticket.)<br /> Man: Would I get another ticket if I called you a jerk?<br /> Officer: Yes, you would.<br /> Man: What if I just thought that you were?<br /> Officer: I can't give you a ticket for what you think.<br /> Man: Fine, I think you're a jerk! <br /> "
     },
     {
       "categoryid": "shortJoke",
@@ -82,13 +82,13 @@
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "A man is talking to God.<br /><br /> The man: \"God, how long is a million years?\"<br /> God: \"To me, it's about a minute.\"<br /> The man: \"God, how much is a million dollars?\"<br /> God: \"To me it's a penny.\"<br /> The man: \"God, may I have a penny?\"<br /> God: \"Wait a minute.\" <br /> "
+      "detail": "A man is talking to God.<br /> The man: \"God, how long is a million years?\"<br /> God: \"To me, it's about a minute.\"<br /> The man: \"God, how much is a million dollars?\"<br /> God: \"To me it's a penny.\"<br /> The man: \"God, may I have a penny?\"<br /> God: \"Wait a minute.\" <br /> "
     },
     {
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": " Fred is 32 years old and he is still single. <br /><br /> One day a friend asked, \"Why aren't you married? Can't you find a woman who will be a good wife?\" <br /><br /> Fred replied, \"Actually, I've found many women I wanted to marry, but when I bring them home to meet my parents, my mother doesn't like them.\" <br /><br /> His friend thinks for a moment and says, \"I've got the perfect solution, just find a girl who's just like your mother.\" <br /><br /> A few months later they meet again and his friend says, \"Did you find the perfect girl? Did your mother like her?\" <br /><br /> With a frown on his face, Fred answers, \"Yes, I found the perfect girl. She was just like my mother. You were right, my mother liked her very much.\" <br /><br /> The friend said, \"Then what's the problem?\" <br /><br /> Fred replied, \"My father doesn't like her.\" "
+      "detail": " Fred is 32 years old and he is still single. <br /> One day a friend asked, \"Why aren't you married? Can't you find a woman who will be a good wife?\" <br /> Fred replied, \"Actually, I've found many women I wanted to marry, but when I bring them home to meet my parents, my mother doesn't like them.\" <br /> His friend thinks for a moment and says, \"I've got the perfect solution, just find a girl who's just like your mother.\" <br /> A few months later they meet again and his friend says, \"Did you find the perfect girl? Did your mother like her?\" <br /> With a frown on his face, Fred answers, \"Yes, I found the perfect girl. She was just like my mother. You were right, my mother liked her very much.\" <br /> The friend said, \"Then what's the problem?\" <br /> Fred replied, \"My father doesn't like her.\" "
     },
     {
       "categoryid": "shortJoke",
@@ -106,7 +106,7 @@
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Why couldn't Cinderella be a good soccer player? <br /><br /> She lost her shoe, she ran away from the ball, and her coach was a pumpkin. <br /><br /> (Requires basic knowledge of the Cinderella story and that both ball and coach have double meanings.) <br /> <!-- mrmrharvey $$&$ yahoo.com --> "
+      "detail": "Why couldn't Cinderella be a good soccer player? <br /> She lost her shoe, she ran away from the ball, and her coach was a pumpkin. <br /> (Requires basic knowledge of the Cinderella story and that both ball and coach have double meanings.) <br /> <!-- mrmrharvey $$&$ yahoo.com --> "
     },
     {
       "categoryid": "shortJoke",
@@ -136,7 +136,7 @@
       "categoryid": "shortJoke",
       "image": "",
       "title": "",
-      "detail": "Q. What do you call a ginger bread man with one leg? <br>A. Limp Bizkit. (limp biscuit) <br>(Alternate: What do the British call a cookie that got wet?) <br>"
+      "detail": "Q. What do you call a ginger bread man with one leg? <br>A. Limp Bizkit. (limp biscuit) <br>(Alternate: What do the British call a cookie that got wet?) <br> </div>"
     }
   ]
 }
