@@ -1,0 +1,400 @@
+{
+  "result": [
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did the donut visit the dentist?<br>&nbsp;<br>To get a new filling."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " How did the bunny rob a snowman?<br><br>He took out his hair dryer and said: Give me that carrot!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did the bee marry?<br>&nbsp;<br>He’s finally found his honey."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Name me five different animals, Johnny.”<br>&nbsp;<br>“The dog, the dog’s brother, the dog’s sister, the dog’s cousin and the dog’s aunt.”<br>"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why does it suck to be a penguin?<br>&nbsp;<br>Because even when you get angry, you still look cute."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": "It is evening. Little Johnny and his friend are sitting by a camp fire.<br><br>&nbsp;They’ve been plagued by swarms of mosquitoes already for an hour and the assault only worsens when the darkness sets in.<br><br>&nbsp;Suddenly, fireflies appear. Little Johnny swears: “These darn mosquitoes! Now they’ve even brought lanterns with them to find us!“ "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is black – white – black – white – black – white? <br><br>A penguin rolling down a mountain!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What would you get if you crossed a vampire with a dwarf? <br><br>A creature that sucks blood from your knees."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Sir, you cannot fish here!”<br><br>“Don’t worry, I’m not fishing, I’m just teaching my worm to swim.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Daddy, why is the sky so high?<br><br>So the birds wouldn’t hit their heads all the time, darling.&nbsp;&nbsp;&nbsp;&nbsp; "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": "Why do dolphins swim in salt water? <br>-<br>Because pepper water would make them sneeze."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A little boy visits his farmer grandpa and watches him milk the cows.<br> <br>The next day one of the cows runs away and grandpa is really upset about it. <br><br>“Don’t worry, Grandpa,” says the boy helpfully, “she can’t have gone very far with an empty tank.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What did the stamp say to the envelope? <br>-<br>You stick with me and I will take you places!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did the shark keep swimming in circles?<br><br>It had a nosebleed."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What happens when a cop gets into bed?<br>&nbsp;<br>He becomes an undercover cop."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Your waffle iron isn’t working, dear!” <br>– <br>“Please just stay away from my laptop grandma!!!”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did the boy peek down the toilet bowl? <br>&nbsp;<br>He was trying to find Winnie the Pooh."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Daughter asks her mother, “Mum, how long have you been married to dad?”<br> -<br> “Ten years.”<br>-<br>“Oh, and how many do you still have left?”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " One day, fridges will take their revenge. They will burst into your bedroom in the middle of the night, switch the light on, stare at you for a few minutes and then leave."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why was the teacher cross-eyed?<br>&nbsp;<br>Her pupils got out of control."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did the bee have sticky hair?<br>&nbsp;<br>Because he was using a honey-comb."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " How to make an egg giggle?<br>&nbsp;<br>Tell it a yolk."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What to call a bear who’s lost all its teeth? – A gummy bear!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What bird is the strongest lifter?<br>&nbsp;<br>A crane. "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What did mama broom say to baby broom?<br><br>Time to go to sweep, baby."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What gives us milk and has one horn?<br><br>A milk truck."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Knock knock.<br>Who’s there?<br><br>Iva.<br>Iva who?<br><br>Iva craving for cookie. Get baking!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " When can you be sure a snail is lying to you?<br>&nbsp;<br>When he says he’s not home."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Q: Which flower is the most talkative?<br>&nbsp;<br>A: Tulips, of course, they can’t keep those lips shut!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Q: Why couldn't the pony sing his baby a lullaby?<br><br>A: She was a little hoarse."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Knock, Knock<br><br>Who’s there?<br><br>Who!<br><br>Who, who?<br><br> What are you, an owl?!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Q: What did the tall chimney say to the small chimney? <br><br>A: \"Hey, you’re way too young to smoke.\""
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two friends are talking, one says: “Man, I fell off a thirty-foot long ladder yesterday.” <br><br>“Oh no, dude, are you alright?!” inquires the other one, shocked. <br><br>“Yeah, I’m OK, I was only on the second rung then.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Knock, Knock.<br>&nbsp;<br>Who’s there?<br>&nbsp;<br>Repeat.<br>&nbsp;<br> Repeat who?<br>&nbsp;<br>Who! Who! Who!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " How does a monkey ring the doorbell?<br>-<br>King Kong! King Kong!"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " How to measure a snake?<br><br>In inches. Snakes don’t have feet."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Knock, Knock<br>&nbsp;<br>Who’s there?<br>&nbsp;<br>Harry!<br>&nbsp;<br> Harry who?<br>&nbsp;<br>Harry up, it’s really cold outside!<br>"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A female kangaroo scratches her stomach for a while like mad and finally yells, “How often do I have to repeat myself, no cookies in bed!!!”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Mummy, where were you when I was born?<br><br>In the hospital.<br><br> And daddy?<br><br>At work.<br><br>That’s great. So nobody was home when I arrived."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Little Ernie asks his auntie, “Why do you have such a big tummy, aunt Lisa?”<br><br>“Because there’s a baby inside.”<br><br>“Do you like babies?”<br> <br>“Very much!”<br><br>“Well I still think it isn’t right to eat them.“"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Little Johnny walks into a pet store and asks the shop assistant: “Could you do me a big favor and throw me a fish please?” <br>&nbsp;<br>“Why on Earth would you want me to throw you a fish?!”<br>&nbsp;<br>“Because I want to tell everybody at home that I caught a fish. "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Three bunnies want to jump a wall. First one jumps and clears the wall with a good 4 inch reserve. <br><br>The second bunny jumps and makes it over the wall with a 5 inch reserve. <br><br>The third bunny jumps and slams headfirst into the wall. When he wakes up, he says, “I must have jumped the highest. I definitely saw some stars.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A duck walks into a bar.<br><br>&nbsp;It asks the barkeeper: “Do you have bread?”<br><br> Bartender: “No.”<br><br>Duck: “Do you have bread?”<br>-<br> Bartender: “NO!”<br>-<br>Duck: “Do you…”<br><br>Bartender: “LISTEN! I HAVE NO BREAD AND IF YOU ASK ME ONE MORE TIME, I’M GONNA NAIL YOU TO THAT WALL!!!”<br><br>Duck: “Do you have nails?”<br><br>Bartender: “NO!”<br><br> Duck: “Do you have bread?”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": "Two vampires are catching up and one says, “Yeah, I’ve recently become vegan.”<br>&nbsp;<br> “Seriously?” says the other, “and what do you eat then?”<br>&nbsp;<br>“Blood oranges.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " I bet you 125851265228542 dollars that you didn’t bother to read that number. You just cruised right over it, didn’t you? You didn’t even notice I put a letter in it. Well I didn’t – but you went and looked anyway. My, you are quite predictable! "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A boy comes into a butchery and stares at the butcher for at least 5 minutes. Finally the butcher asks, “So why do you stare at me for such a long time, boy?” The boy explains: “My mother wanted to know if you have a pig’s tail or pig’s ears.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two boys are walking outside and one of them finds a hundred dollar bill. <br>&nbsp;<br>His friend suggests that they should take it to the lost-and-found office. <br>&nbsp;<br>The boy replies: “No point. This is my mom’s money.” <br>&nbsp;<br>His friend is startled, “But how can you know that?” <br>&nbsp;<br> “Because my father keeps saying that my mother is just throwing money out the window.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Your brother is so small!” the neighbor says happily to little Paulie.<br> &nbsp;<br>“Yeah, he’s only my half-brother.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Have you ever seen a little calf being born?” asks a farmer Little Johnny. <br>&nbsp;<br>“No, how is it?”<br>&nbsp;<br>“Well, first come the front legs, then the head, then the shoulders and the body and finally the hind legs.”<br> &nbsp;<br>“Wow, cool, and how do you put it all together then?”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " The magical goldfish agreed to grant three men a wish each.<br>&nbsp;<br> The first man wished for a room full of gold.<br>&nbsp;<br>The second man wished for a room full of diamonds.<br>&nbsp;<br>The third man wished for keys to those rooms."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two pigeons are sitting on a roof, watching a fighter plane streak across the sky leaving a big condensation trail behind it.<br>&nbsp;<br>“Wow, he seems to be in a hurry,” observes one pigeon.<br>&nbsp;<br>“And what would you do if your butt was on fire?!”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A gardener picks up horse droppings off the road. This interests a passerby: “What do you do with the droppings?”<br><br>Gardener: “I sprinkle it on my strawberries.”<br><br>Passerby: “Funny, we usually use sugar…”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A farmer needs to know how many sheep he has in his field. He calls his German Shepherd dog to count them for him. The dog runs off, counts the sheep and returns to the farmer.<br><br>&nbsp;\"How many?\" asks the farmer. \"40,\" replies the dog. The farmer is startled and says, \"What do you mean, 40 - I only bought 37!\" The dog shrugs, \"I rounded them up.\""
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Child: “Mom, I have a good and a bad news.”<br><br>Mother: “OK, start with the good one.”<br><br>Child: “I scored an A in the math test.”<br><br> Mother: “That’s awesome Lisa! And what’s the bad news?”<br><br>Child: “That this was only a joke.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Lilly bursts into the house from the garden and tells her mom out of breath: “Mom, mom, I accidentally knocked over the big ladder that was leaning against the house!”<br><br>Mother says, “Well go get daddy, he’ll help you put it back.”<br><br>Lilly hops on the spot, “But I can’t, he’s still hanging onto the eaves trough!”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A school proudly installs a long row of coat pegs on the wall, with a sign on the last five: ONLY FOR TEACHERS.<br><br>The next day somebody adds: BUT CAN ALSO BE USED FOR COATS."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why do teachers hate playing hide and seek? Because nobody is ever looking for them."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Waiter, there’s a fly twitching in my soup!”<br><br>“And what do you expect for the price? A ballet?!”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is red and flies through the air?<br>&nbsp;<br>A tomato in a helicopter."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Miles sits down in a mountain restaurant’s garden and orders a Coke. But when the waiter comes, he brings him 3 Cokes. “But I’ve just ordered one?” says Miles to the waiter.<br>“I’m very sorry, we get that problem all the time, sir. It’s the darned echo here.”"
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why is it that bicycles fall over so often? <br>-<br>They are two-tired. "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Q: What is worse than having a roaring T-Rex following you?<br>&nbsp;<br>A: Having two roaring T-Rexes following you."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did Harry the dumb policeman always carry a pair of scissors?<br>&nbsp;<br> To be able to cut off a suspect’s escape route."
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " A little boy stands in front of a house and cries. A guy sees him and asks, “Why all the crying, little guy?”<br>&nbsp;<br>“I can’t reach the doorbell.”<br>&nbsp;<br>The man rings the bell for him and smiles at the boy. The boy smiles back at him and says, “Great, and now we just have to run away very quickly!” "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Freddie says to his dad: “When I’m a grown-up, I’m going to marry Grandma!”<br>&nbsp;<br>Father smiles, “Come on, you can’t marry my mom.”<br>&nbsp;<br> “And why not? You married mine! “ "
+    },
+    {
+      "categoryid": "CutesJokes",
+      "image": "",
+      "title": "",
+      "detail": " Teacher tells Maia, “Name me three African animals.”<br>&nbsp;<br>Maia: “One lion and two giraffes.”"
+    }
+  ]
+}

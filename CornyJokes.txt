@@ -1,0 +1,96 @@
+{
+  "result": [
+   
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you know what makes me smile?<br>-<br>My facial muscles.<br>"
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " Today I brought a pizza with me on the bus. The driver said: “Hey that is not a restaurant here.” I said: “I know, that’s why I brought my own food.”"
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " Being a 24-year-old virgin sucked, I’m glad nobody can say that about me anymore.<br>-<br>I’m 25 now."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " A dung beetle goes into a bar and asks, \"Yo, is this stool taken?\""
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " My mom loves gardening. She was so excited that spring finally arrived, she wet her plants."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " What wouldn’t you find in a haunted house?<br>-<br>A living room."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " Where do you bring horses that are sick?<br>-<br>To the horsepital."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is yellow and can’t swim?<br>-<br>An excavator.<br>-<br>Did you find it funny?<br>-<br>No.<br>-<br>Neither did the excavator operator."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " Pick up line: Hey girl, I overheard you saying that you’re on the lookout for some STUD! Well I’ve got STD, so all that’s missing now is u…"
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;Have you been picking your nose again?!<br>-<br>Why would I?! I’ve had it since I was born!"
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " What should we call an American bee?<br>-<br>A USB."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " I bought a Chihuahua for my wife. Chihuahuas are amazing. Despite the huge ears, bulging eyes and terrible breath, he’s very fond of her."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " I was down to my last 100 dollars. I really didn’t know what to do. So I asked myself the key question. What would Jesus do? And then I went and turned it into wine."
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " Toilet jokes? Nah, not my number one jokes, really.<br><br>But a good, solid number two!"
+    },
+    {
+      "categoryid": "CornyJokes",
+      "image": "",
+      "title": "",
+      "detail": " What do you call a totally unimportant elephant?<br>-<br>An Irrelephant. "
+    },
+    
+  ]
+}

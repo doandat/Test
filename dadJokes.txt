@@ -1,0 +1,522 @@
+{
+  "result": [
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is the worst combination of two sicknesses?<br>-<br>Diarrhea and Alzheimer. You’re running, but you don’t know where. "
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is hairy, brown, and goes up and down?<br>-<br>A kiwi in an elevator.<br>"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you know what’s cool?<br>-<br>Winter."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is cold and stands under a street lamp?<br>-<br>A frostitute."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two hot dogs are walking down the street.<br>-<br>One suddenly turns to the other and says, “Mike! Your wiener is showing!“"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Problems sleeping? Cut the legs of your bed. You'll sleep deeper."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is blue and lies under a mushroom?<br>-<br>Smurf poop."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What fish is the best fighter?<br>-<br>The swordfish."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I lost some weight last month. But now it found me again.&nbsp; "
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Would you like to hear a construction joke?<br><br>[Yes]&nbsp;<br><br> Well I’m still working on it."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you know why I can’t be buried in a cemetery?” <br><br>[No]<br> <br>“Because I’m still alive.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I have a very secure job. There’s nobody else who would want it."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you know what’s up?<br>-<br>The ceiling."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you feel cold!<br><br>Then go to the corner, there’s 90 degrees."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": "What did Arnold Bergheimer invent in 1928?<br>-<br>Nothing at all"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " How do you feel?<br>[Good]<br>Wrong. You feel with your skin."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>Two walls arrange a date – “I’ll meet you at the corner.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I read the other day that people eat more bananas than monkeys. No surprises there, I can’t even remember the last time I ate a monkey."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " My wife dared doubt my craftsmanship when I was changing the light switch. Haha, she’s in for a shock."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Working in a crematorium, you can never urn a living."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What do you do when the phone rings and you get a private caller?<br>-<br>Don't answer that. Pick up for ranks Lieutenant and higher only."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " How much longer is the Amazonas compared to the Nile? [Don't know] By 4 letters."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is red and flies through the air?<br>-<br>A tomato in a helicopter."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " They are testing a revolutionary new blender, but they’re getting mixed results."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " \"What is a bunny without a carrot?\"<br>&nbsp;- <br>\"Hungry!\""
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Did you hear about the new movie constipation? It hasn’t come out yet."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you know how I embrace my mistakes?<br>-<br>I hug my wife and children."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why Davids should never loose their ID?<br>-<br>Because then you have to call them Davs."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A single glance tells me if somebody is lying. It’s the fact that they’re horizontal that gives it away."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Pregnant women should be given way more respect and comfort in the society. After all, it’s the only way to make a living."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " You may be an American when you go to the restroom. You may be an American when you leave the restroom. But when you’re in there? European."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>What do you call a sheep without legs? <br> -<br>A cloud."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Did you know that UPS and Fedex are going into a merger? They will be called Fed-Ups now."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I love my rock-hard, honed six-pack so much I protect it with a good layer of lard."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " You should always keep your cool when handling justice. Otherwise it would become justwarm."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two tomatoes are walking down the road, when one says, “Be careful there is a truck com...” Splllaaaaasshhh!"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I was looking for some books on paranoia in the library. When I asked, the librarian said very quietly, “Yes. They are behind you.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Cliffhanger endings are incredibly frustrating. They just"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " The hipster from next door drowned. He went ice skating before it was cool."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Not even orcas dare attack an octopus.<br><br>It’s too well armed."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I wanted to wear my camouflage jeans today but I just couldn’t find them."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I was told I pick my nose at times. I mean, why would I do that? I’ve still got the one I was born with!"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Cannibals aren’t very sociable. They’re all fed up with people."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Doctor, do these sleeping pills create an addiction?<br>-<br>Absolutely not, no worries, I myself have been using them daily for years!"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I don’t know why people have a problem with wigs. It’s a look anybody can pull off!"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I decided, after so many years in the marital bedroom, it was time for a one night stand. I’ll go back to the furniture shop tomorrow to pick up the other one."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two cows meet, one says, \"Mooooo!\"<br>-<br>The other one is offended, \"Hey, I just wanted to say that!\""
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two penguins meet. One says, “Jesus it is cold today. <br><br>The other hisses, “Shut up. Penguins can’t talk.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why didn’t the Orange drive when the lights turned green again? <br>-<br>No juice!"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Vegetarian is an old Indian word. Originally, it means “a bad hunter”."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why was the toilet paper rolling down the hill?<br>-<br>It was in a rush to get to the bottom."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>Why did the singer take a bucket to her choir practice?<br>-<br>She needed something to carry her tune."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Have you heard there was a kidnapping at the school?<br>[NO]<br>But it’s fine now, the kid woke up again."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I’ve never liked speed bumps much. But I’m getting over it slowly."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is invisible and smells of carrots? <br><br>A little bunny’s fart."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I saw an expiration day on an anti-aging cream. Now that’s just a scam!"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why is our nose right in the middle of our face? <br>&nbsp;-<br>Well, it is the scenter."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " How do you call a boat without a rope?<br>-<br>\"Boat!\""
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Esrowneve” may look like gibberish, but when you put it backwards, it’s even worse…"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " How do you make holy water? Freeze it into ice, then drill in some holes."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Jokes about communism are only good if everybody gets them."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " They say whiskey isn’t an answer. But I say it’s worth a shot."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I quit as a taxi driver. Couldn’t stand all the people talking behind my back."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>“Are you alright dad?”'<br>&nbsp;<br>“Actually, technically, I’m half left and half right.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you know how to make somebody curious?<br>[No]<br>I'll tell you tomorrow!"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Son: I’m really sorry I did it, dad.<br>-<br>Dad: Well, son, you know that now I must pun-ish you."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Oh dad, you gotta save me!”<br>“And would you like to be a pdf or an xls?”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Dad, I’m done!<br>-<br>Hi Done, I’m dad."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " “I’ll call you later!” <br>-<br>“Please don’t do that. I’ve always asked you to call me Dad!”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Son: “Am I adopted?”<br>-<br>Dad: “Not yet, it seems nobody is interested.“"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Father, lying in his deathbed:<br><br>“Mary, my wife, are you here with me?”<br> <br>“Yes, I am, dearest.”<br><br>“And Louise, my mother in law, are you here with me?”<br><br>“Yes, I am, Paul, I’m here with you.”<br><br>“And you, children, are you here, Karen and Henry?”<br><br>“Yes, yes we are, daddy!”<br> <br>“Then how the hell is the living room light left on?!” "
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;Dad, looking at soy milk: “Holá, milk, soy dad."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " We had to pull over to let an ambulance whizz by, sirens blaring. My dad was silent for a while and then commented, “I can’t see them selling much ice-cream at this speed.”"
+    },
+    
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Dad, can you call mom’s phone? She can’t find it.” <br><br>“Absolutely! ‘Mom’s phone! Mom’s phone!’”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Daughter: “How do I look, daddy?!”<br>&nbsp;<br>Dad: “With your eyes, sweetheart.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Father: Do you know the joke from the 3rd floor?<br>-<br>Son: “No,”<br>-<br> Father: Me neither, I was on the 2nd floor at the time."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you have a hole in your shoe?<br>-<br>[NO]<br>&nbsp;What do you mean, no? How did you get your foot in then?\""
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Hey dad how was your weekend?\" - \"Light, dark, light, dark, Monday.\""
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Dad to his son: \"I like you. You remind me of myself when I was young and dumb."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " \"Daughter to her dad: \"What is it?\"<br>-<br>Dad: “It” is a pronoun."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Son, did you know I was named after Nikola Tesla?”<br>-<br>“But Dad, your name is Michael!”<br>-<br>“True, but I was named AFTER him.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " You: “So, dad, I was thinking…” <br> <br>Dad: “Ohhhhh and I wondered what that high-pitched grinding sound was!”How many pears grow on a tree? They all do."
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Officer, I’m calling to report my children. They refuse to go to bed. They are resisting a rest. "
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Dad to his daughter: \"Never forget, sweetie, you're unique, like everyone else.\""
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Can you put my shoes on, dad?” - “Actually, I think they’re a bit too small for me.”"
+    },
+    {
+      "categoryid": "DadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Dad, can I leave the table please?<br>-<br>Sure, as long as you leave it right where it is."
+    }
+    
+  ]
+}

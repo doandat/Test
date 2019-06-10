@@ -1,0 +1,665 @@
+{
+  "result": [
+    
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Tonight I dreamt of a beautiful walk on a sandy beach.<br>&nbsp;<br>At least that explains the footprints I found in the cat litter box this morning."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " What do you get when you cross-breed a shark and a cow? <br><br>I have no idea but I wouldn’t try milking it."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;\"I wasn't that drunk yesterday.\" \"Oh boy you took the shower head in your arms and told it to stop crying.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Women really know how to hold a grudge. My wife asked me to pass her a lip balm. And by mistake, I gave her a tube of Super Glue. It’s been a month now and she’s still not speaking to me!"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Today, my son came to me and gave me a hug – out of the blue. I was very pleasantly surprised – that is, until I heard him tell his father, “You’re right. She did gain weight.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I proposed to my ex-wife. But she said no. She believes I’m just after my money."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Of course I should clean my windows. But privacy is important too."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I’ve always thought I will discover my inner self through some eastern philosophies, not because of a stupid single-ply toilet paper from Walmart!"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Boy complains to his father: You told me to put a potato in my swimming trunks! You said it would impress the girls at the pool! But you forgot to mention one thing! <br><br>Father: Really, what?<br><br>Boy: That the potato should go in the front."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I hate people who take drugs. DEA is the worst."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Sometimes it is very important if a sentence was said by a man or a woman. A good example: “I used a whole pack of tissues during that awesome movie yesterday!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two elephants meet a totally naked guy. After a while one elephant says to the other: “I really don’t get how he can feed himself with that thing!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I just got a photo from a speeding camera through the mail. I sent it right back – way too expensive and really bad quality."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " When my wife starts to sing I always go out and do some garden work so our neighbors can see there's no domestic violence going on."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two teenagers, Fred and Joe, meet after school and Fred is all excited: “Man I was at the most awesome party this weekend! We went to this dude’s house and guy had toilets made of pure gold!”<br><br>“No way!”<br><br>“Yes way,” insists Fred, “come with me and check it out for yourself if you don’t believe me.”<br>-<br>Twenty minutes later they’re ringing the doorbell at the place. A middle-aged lady opens and Fred eagerly asks her, “Hi! I’m sorry to bother you but there was a party at your house yesterday and my friend doesn’t believe that you have toilet bowls of pure gold!”<br>-<br>The lady looks at him for a moment and then yells into the inside of the house, “Roger, the pig that shat in your trombone is here!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I’m dating this wonderful girl and she has a twin. People often ask me how I can tell them apart – but it’s easy, really. Jane likes to paint her fingernails and Tom has a willie. "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Husband brings the child home from kindergarten and asks his wife, \"He’s been crying the whole way home. Isn’t he sick or something?\" <br>&nbsp;<br>\"No,\" replies the wife, \"he was just trying to tell you he isn’t our Frankie.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I freaked out the electrician by opening the door naked. I couldn’t tell what gave him a bigger shock – whether the fact that I was naked, or that I got into his house."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " My friend Robbie shocked and hurt me. He told me today that I make people very uncomfortable and have no respect for personal space. I mean, what a thing to say to a friend? It totally ruined our bath!"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " 8 p.m. I get an SMS from my girlfriend: Me or football?!<br><br>11 p.m. I SMS my girlfriend: You of course."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A police officer stops a minivan full of elderly ladies being driven by an old gentleman because they’re only going 25 mph, stopping the mid-day traffic. <br>-<br>The policeman asks the driver why is he going so slow.<br> -<br>“Well that’s the speed limit, isn’t it! There was a sign saying 25 and everything!” the driver defends himself.<br>-<br>The policeman sighs, “No, sir, that’s the number of the highway you’re on. It has nothing to do with the speed limit.”<br>-<br>“Oh, so that’s what it means…” says the driver, looking shocked.<br>-<br>The officer looks at the rest of the van and notices the grannies are looking somewhat frozen and stiff.<br>-<br>“What’s up with the ladies?” he asks the driver.<br>-<br>“Um…” the driver scratches his head, “you see, we just got off highway 150…”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " At a disco:<br>&nbsp;<br>He: “Wow, what’s a cute girl like you doing in a corner all alone?”<br>-<br>She: “I had to fart.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two police officers crash their car into a tree. After a moment of silence, one of them says, “Wow, that’s got to be the fastest we ever got to the accident site.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A Japanese man in a monastery atop a sacred mountain asks the wise man: <br>-<br> \"Master Ayumu, why do all Westerners think that Japanese people look alike?\"<br> -<br>\"I am not Master Ayumu.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Wait for me honey, I’m just finishing my make-up.<br>&nbsp;<br>You don’t need make-up, Jane.<br>&nbsp;<br>Oh, Richard…. really? That is so sweet of you! <br>&nbsp;<br> You need plastic surgery."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Broccoli: Hey, I look like a tree.<br><br>Mushroom: Wow, I look just like an umbrella.<br><br>Walnut: I look exactly like a brain.<br><br>Banana: Man, can we change the topic please?"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": "How can they call it \"Alcoholics Anonymous\" when the first thing you do is you stand up and say, <br>‘My name is John and I am an alcoholic’?"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Smile and the world smiles with you. Fart and the world suddenly stops smiling."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Pessimist: \"Things just can't get any worse!\" <br><br>Optimist: \"Nah, of course they can!\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A nice old lady on a bus offers the driver some peanuts. He’s happy to take some. He asks her after a while why she isn’t having any herself.<br> <br>“Oh, young man,” she says, “they’re too hard on my poor teeth, I couldn’t.”<br><br>“Why did you buy them at all then?” wonders the driver.<br> <br>“You see, I just love the chocolate they’re covered in!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A man asks a farmer near a field, “Sorry sir, would you mind if I crossed your field instead of going around it? You see, I have to catch the 4:23 train.”<br><br>The farmer says, “Sure, go right ahead. And if my bull sees you, you’ll even catch the 4:11 one.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A snowman sniffs, “Hm, funny, I smell carrots…”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A mom shark is teaching her son how to hunt swimmers properly.<br>-<br>“So, first you go and circle them making sure your fin is showing. And then you go at them full blast and eat them.”<br><br>“OK, but why don’t I just go at them full blast and eat them right away?”<br><br>“I guess you could, son, but would you really want to eat them with all that shit in their intestines?”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Mum, I'm already 14, can't I finally get a bra?!<br>-<br>NO Harold!"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two men are discussing their lives. One says, \"I’m getting married. I’m sick of a messy apartment, dirty dishes, and no clothes to wear.\" The other one says, \"Hey, I’m getting divorced for the same reasons.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two fortune tellers meet. First one says, “We’re going to have a hot summer again.” The second one sighs happily: “Yes, it reminds me of the summer in 2092…”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Scientists have now discovered how women keep their secrets. They do so within groups of 40."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Me: “Do you think it’s strange to talk to yourself?”<br> <br>Me: “No.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Astronaut's last words: OMG guys, who farted? I have to open the window."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " What’s a state clerk’s favorite day of the week?<br><br>Tuesday. There’s no point starting anything new so shortly before the weekend."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Mom, is it true I was brought by a stork?”<br><br>“Yes darling, that’s right!”<br><br>“Oh, so daddy is an impotent?”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " My brother went to jail. He didn't take it very well. He was yelling insults and<br>attacking everyone, he even threw his feces on the wall. I don't think we will play Monopoly with him again."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Late one night a robber wearing a mask stopped a well-dressed man and stuck a gun in his ribs. \"Give me your money,\" he demanded. Scandalized, the man replied, \"You can’t do this – I’m a US Congressman!\" \"Oh! In that case,\" smiled the robber, \"Give me MY money!\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I used to believe that the brain was the most important organ. But then I thought, hey, look who’s telling me that."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did the dinosaur cross the road? <br><br>Because the chicken hasn’t evolved yet."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " After years of loneliness, I finally worked out a great dating strategy. I’ll pretend to be gay. I’m going to make tons of chick friends, really get them to trust me, tell me everything… and when they haven’t got an ounce of suspicion left – BOOOM!<br><br>I’ll get their boyfriends! "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Jesus can walk on water, correct? <br>&nbsp;<br>(Yes) <br>&nbsp;<br>Well, I can walk on cucumbers. As you may know, cucumbers are 98% water. So - I am 98% Jesus."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I told my dad that he should embrace his mistakes. He had tears in his eyes. Then he hugged my sister and me."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " An almost hysterical man calls 911 and yells, \"Please come quickly! Kailey is pregnant and her labor started now, it’s really intense!\"<br>&nbsp;<br> \"Is this her first child?\" asks the operator.<br>&nbsp;<br>\"No you dumbass! It’s her husband!\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Light travels faster than sound. That is why some people appear quite bright – until you hear them talk."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": "Girls mostly treat me like a God. They totally forget that I exist and only approach me when they need something."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A man has usually no idea how often he normally farts. That is, until he spends 24 hours with a girl he likes."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " The Queen takes the visiting pope for a ride in a carriage through London. <br>&nbsp;<br>Suddenly one of the horses farts very loudly. “I am terribly sorry,” apologizes the embarrassed Queen. <br><br>The pope replies, “Oh don’t worry, if you hadn’t said anything, I’d just think it was the horse!” "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Little Johnny once bought his Grandma a very nice, luxurious toilet brush for her birthday. But when he went to visit her a couple of weeks later, it wasn't in the bathroom. <br><br>Little Johnny asked his Grandma, “Gran, what happened to the toilet brush I gave you?”<br><br>“Darling, I'm sorry but I just didn’t like it. It was too scratchy. After all those years, I’ve gotten used to the toilet paper.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A fat guy and a thin guy meet:<br><br>Fat guy: “When I see you, I’d think a famine broke out!”<br><br>Thin guy: “And when I see you, I’d think you’re the one responsible for that!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;Waiter, I’ve seen your thumb dipping right into my soup as you were carrying it over!<br>– <br>Thank you for your kind concern, sir, but it’s OK, the soup is only lukewarm."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why hasn’t there ever been a vegan to the Moon?<br>-<br>Because there’s nobody there to whom they could tell they’re vegan. "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": "Stalking: When two people enjoy long romantic walks together, but just one of them is aware of this fact."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": "“Waiter, could you bring me some tooth picks, please?”<br><br>“I’m sorry sir but you’ll have to wait a little bit, they are currently all in use.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": "Petra comes back from the bathroom in a café where she was sitting with her friend Nicole.<br><br> &nbsp;Nicole says, “Listen, I think your electric toothbrush must have switched itself on in your handbag.” <br><br>Petra replies, “But I don’t have an electric t… Oh yeah, that darned toothbrush!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " At a job interview:<br>&nbsp;<br>“Mrs. Lober, what do you consider your greatest weakness?”<br>&nbsp;<br>“Honesty.”<br>&nbsp;<br>“Really? I don’t believe that is a weakness at all.”<br>&nbsp;<br>“And I don’t give a rat’s fart about your stupid opinion!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why haven’t there been any shark attacks on lawyers? Sharks observe professional courtesy."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A child’s observation: If a mother laughs at dad’s jokes, we have guests."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " My boss told me yesterday, “Don’t dress for the job you have, dress for the job you want”. But when I turned up at the office today in Ghostbusters gear, the bastard said I was fired."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " About 4,000 years ago:<br><br>God: I shall create a great plague and every living thing on Earth will die!<br><br>Fish: *Winks at God and slips him a $20 note*<br><br>God: Correction, I shall create a great flood!"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A woman is at a doctor after her husband’s check-up. <br><br>The doctor looks serious and says, “Mrs Connelly, your husband is very sick. He needs to rest and not get upset. I will prescribe you some sleeping pills.”<br>&nbsp;<br> “Ok,” nods Mrs Connelly, “and how often should he take those?”<br><br>“Oh, they’re not for him, Mrs Connelly, they’re for you.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A man to a psychiatrist: “How do you select who should be admitted to your facility?” <br><br>The psychiatrist replies: “We fill a bathtub with water and give the person a spoon, a cup and a bucket. Then we ask that person to empty the bathtub.” <br><br>The man smiles: “Ah, I understand, if you are sane you would take the bucket.” <br><br>The Psychiatrist replies: “No, a sane guy pulls the plug. Do you want a room with or without a balcony?”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;I got a really cute dog and called him Threemiles. It sounds great to say I walk Threemiles twice a day."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two planets meet. One moans to the other: “Can you believe it, I’ve got humans!” <br><br>The other cheers her up: “Don’t worry, it will pass soon.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Jenny, if you think your husband’s handsome, you should see my boyfriend.<br> <br>Oh, he’s a hottie, is he?<br><br>Nope, an optician though."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": "What day does the egg fear the most? Friday."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why were the Stars Wars released in the sequence of 4,5,6,1,2,3? <br>&nbsp;<br> Because they were directed by Yoda."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " That awkward moment when your entire Math class is discussing whether the result is 15 or 16 and your answer is -1053."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is black, sits in a tree and is very dangerous?<br>-<br>A raven with a machine gun. "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Proper spelling and grammar is very important and for instance a coma can totally change the meaning of a statement.<br><br>Here’s an example:<br>&nbsp;<br> \"Travis is in a rush.\"<br>\"Travis is in a coma.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Girl: \"I'm sick and tired of you pretending to be some detective ace all the time. I think we should split up.\"<br>-<br>Me: \"Excellent idea. That way we can cover more ground.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " An English teacher asks Little Johnny: “Make an opposite of this sentence: ‘Kids in the dark usually make errors.’”<br>-<br>Little Johnny: “Errors in the dark usually make children.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A five-year-old Mikey asks his Grandpa, “Grandpa, what do you call it when there are two people on top of each other in bed?”<br>-<br>The Grandpa feels very uncomfortable but decides not to confuse the child and bravely says, “That’s intercourse, my boy.”<br>-<br>“OK,” nods Mikey and off he goes.<br>-<br> He comes back after five minutes and says, “Grandpa, that’s not right. I’ve just spoken to mom and she said that it’s not called intercourse but a bunk bed!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A guy wakes up in the morning and tells his wife: “Wow darling, you won’t believe what happened. I dreamt I was forced to eat a live sheep and now I can’t see my pillow anywhere!”<br>-<br>The wife answers, “The pillow’s fine, it’s lying right there on the floor, but I have been calling our dog in vain for the past 5 minutes!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A guy asks his neighbor in an apartment building: “Mr Trepper, you live directly above me and you have the same 2-room apartment as I do. How many rolls of wallpaper did you buy when you moved in?<br><br>“We got 18 rolls,” answers the neighbor.<br><br>Two months later the guy meets his neighbor again and says, “It’s really funny – I put the wallpaper on everywhere and I still had 10 rolls left over.”<br><br>Neighbor smiles, “Yeah, so did we.“"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " The person who thought it’s a good idea to put the light switch outside of the bathroom clearly didn’t have any siblings."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " My wife left me, went away. At first I was sad, lonely and didn’t know what to do with myself. But I bought a motorbike, threw a wild, loud party and got to meet some other women. I think my wife may not be so pleased when she comes back again from work."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " My teacher asked me to characterize myself in 5 words.<br>&nbsp;<br>“Quite lazy.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A police officer stops a car and says: “Congratulations, sir! You are the 1,000,000th car to drive over this bridge – you win $10,000! What will you do with that money?”<br><br>The driver gets very emotional and says, “First of all, I’ll finally make my driver’s license!” The wife cuts in, “Don’t listen to him, officer, he’s still drunk!”<br><br>A hard-of-hearing granny from the back seat grumbles, “I knew we shouldn’t have taken the stolen car!”<br><br>A voice from the trunk adds, “Hey, are we past the border now?”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I played our wedding video backwards yesterday. It really cheered me up to see how I take the ring off my wife’s finger, get out of the church and go drinking with my best friends. "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Driving a sports car and sticking to the speed limit is like going to McDonalds’ and having just the salad."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A woman looking for a relationship places an ad, saying, “Looking for a guy that won’t beat me, won’t run away on me and will satisfy me nicely. Am good looking, excellent cook.”<br><br>Three days later, there’s a loud knocking at her door. Behind it there’s a guy with no arms and no legs, smiling expectantly. “Dear Amy,” he says, “I have no arms so I couldn’t even beat you if I tried. I have no legs and I can’t run away on you. I’m your guy.”<br> <br>“That’s very nice,” says Amy, surprised, “but how will you be able to satisfy me?”<br><br>His smile widens, “You did hear the knocking, didn’t you?”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Police officer: “Sir, I don’t understand. You lost the credit card a year ago, why are you reporting it now?”<br><br>Guy: “The thief wasn’t spending nearly as much as my wife used to…”<br><br>Police officer: “But why report it now?”<br><br>Guy: “I think the thief’s wife got hold of it now.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": "I made cookies for you. It is an apology because I crashed your car. <br>-<br>YOU DID WHAT?!<br>-<br>Cookies. I made cookies for you."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Tom and Anna are both 60 years old and have been married for 40 years. <br> <br>One day they go for a walk and all of a sudden a good fairy stands in front of them and says, “You’ve been married for so long and you’re so cute together, I’ll grant you a wish each.”<br><br>The woman is beside herself with joy and wishes for a trip to Thailand. Poof – she’s holding two tickets to Thailand and a five star hotel voucher for two.<br>-<br>The man says, “Wow, that’s one chance in a lifetime! I’m sorry, darling, but I wish I had a wife that’s 30 years younger than me.”<br>-<br>“Are you sure?” asks the fairy. <br>-<br>“Yes!” replies Tom without hesitation.<br>-<br>Poof once more – and he’s 90."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A man and his wife are getting ready for a gala event. The wife gets into her dress and asks her husband, \"Does this make my butt look too big, Derek?\"<br>-<br>The husband sighs and says, \"Sweetie, do you promise that you won’t get angry, no matter what I say?\"<br>-<br>The wife gulps and says, \"Of course, Derek, I promise, I won’t get angry.\"<br>-<br>The husband looks her over from all sides and says, \"I slept with your cousin.\""
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why isn't the military accepting karate pros?<br>-<br>Because when they salute they might kill themselves."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Dolphins are highly intelligent animals. American scientists proved that after only a brief time in captivity, they are able to train humans to stand at the edge of the pool and toss them bits of fish."
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;A guy’s brain cell meets another brain cell and wonders: “Where is everybody? It’s so dark and empty in here!”<br>&nbsp;<br>“Just come with me,” says the other brain cell, “They’re all down there.” "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Roses are red. <br>Violets are red. <br>My lawn is red. <br>My dog is red.<br> -<br>Oh hell, my garden’s on fire. "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I am coughing and my nose is stuck. <br>-<br>Internet diagnosis: I am 26 weeks pregnant!"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A boy is sitting on a bus and eating one piece of chocolate after the other. A man sits down next to him and says: “Eating so much chocolate is not healthy for you boy.” <br><br>The boy replies: “My grandfather died when he was 112 years old.” <br><br>The man asks: “You think he became so old because he was eating lots of chocolate?” <br><br>The boy answers: “He became so old because he minded his own business.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Funny, those road signs: \"Caution - Watch for children!\" I mean, how dangerous can a child be?<br>&nbsp;"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A guy walks into a bar and says urgently to the bartender, \"Give me a beer before trouble starts!\" He drinks his beer and orders another, again saying, \"Give me a beer before trouble starts!\" The bartender is confused but lets it go for another two beers, when he finally asks, \"Hey man, when are you gonna pay for those beers?\" The guy answers, \"And now the trouble starts!"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " Three guys are flying over a desert in a hot air balloon. They see a man below and yell at him, “Do you know where we are?”<br><br>The man thinks about it for a long time and when they’re nearly out of earshot, yells after them, “You’re in a balloon.”<br><br>“That was a mathematician,” says one of the aviators. “Why?” asks another. „Because it took him a hell of a long time, the answer is perfectly correct and yet its practical value is zero.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " “Oh no, Roger, why did you two split up?” <br>-<br>“She’s a liar and a cheat! She said she was the whole night at her sister’s!”<br>-<br>“So? Maybe she was.”<br>-<br>“Yeah, no way. I was the whole night at her sister’s!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A priest falls into water and soon starts to drown. But his faith in God is strong and he knows God will save him. <br><br>A small boat rows to him and offers help. “No! God will help me, thank you!” gasps the priest and continues drowning.<br><br>&nbsp;A second, bigger boat comes by soon and tries to get the man out of the water. “No!” fights the priest. “God alone will save me!” The boat leaves and the priest finally drowns.<br><br>In heaven, he feels quite betrayed and goes to ask God about it.<br><br>&nbsp;“Well, you moron,” thunders the Lord, “and who do you think sent all those ships?!”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " \"Granny, why do you read obituaries every day?<br>-<br>Don't worry grandson. I just want to see who is single again.<br>"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A well-known hunter was once asked if it was true that the jungle predators will never attack a person carrying a lit torch. “That is true,” he responded, “but it does depend at what speed you are carrying that torch.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A drunk guy stumbles into a bar and says, „Those to my left you are all jerks. Those to my right, you are all idiots!“<br><br>A tall, muscular guy slowly stands up, puts on his cowboy hat and quietly says to the guy, “Well, I don’t think I’m an idiot at all.”<br>&nbsp;<br>“Alright,” agrees the guy, “you can go on the left.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A guy goes to the information desk in a supermarket and says, “ I’m looking for insulation wool for my hobby room.”<br><br>The clerk apologizes that they sell no such thing, perhaps he’d be more lucky at a Home Depot.<br><br> “OK,” agrees the man, “all jokes aside, I’m looking for tampons for my wife.”"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;A glass of Nutella has about 9870 calories. But I don’t care. I never eat the glass anyway. "
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " A guy spends the night drinking in a bar. <br><br>When he finally leaves at 4:30, he immediately falls over. He crawls for a while, then tries to get back up, falls, crawls, gets back up.<br><br>&nbsp;On an on he goes on doing this until he finally gets home. There he falls in his bed and promptly starts snoring. <br><br>In the morning, his wife sighs, 'you’ve been drinking again, Joe, haven't you?' <br><br>‘How on Earth could you guess that, darling?'<br><br>'You went and left the wheelchair at the bar again!!!'"
+    },
+    {
+      "categoryid": "HilariousJokes",
+      "image": "",
+      "title": "",
+      "detail": " I found my wife hanging from a rope in the attic.<br><br>There was a note saying, \"I really can't stand your criticsm any longer!\"<br><br>I quickly cut the rope and reanimated her. Thankfully I could bring her back to life. <br><br> As she lay in my arms I could see her eyes slowly open and I said, \"Come on, that's not how you spell criticism.\""
+    }
+  ]
+}

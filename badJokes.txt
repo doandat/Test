@@ -1,0 +1,502 @@
+{
+  "result": [
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Man to a butcher: \"I'd like bull's testicles.\" <br>&nbsp;<br>Butcher: \"So would I\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Girl: So, how many times a day do you shave?<br><br>Man: Well, about 15-20 times every day.<br><br>Girl: My god, are you some kind of crazy?<br><br> Man: No, I’m a barber."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What’s black, red, black, red, black, red?<br>-<br>A zebra with a sun burn."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " “I am a master of fast calculations.”<br>-<br>“OK, what is 758 time 642 divided by 5?”<br>-<br>“22!”<br>-<br>“Ha ha, that’s wrong!”<br> -<br>“Might be, but it was fast!”"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Last week’s Clairvoyants Associated meeting was cancelled for unpredictable reasons."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " My friend was planning to get a Labrador. Is he mad?! Hasn’t he seen how many of their owners go blind?!”"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": "&nbsp;What is green and sits crying in the corner?<br>&nbsp;<br>The incredible Sulk. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What flutters about and clearly never had a bath in its entire life?<br> -<br>Stinkerbell."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why are pigs not allowed to ride bikes?<br><br>Because they lack the thumbs to ring the bell."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What has four legs, one foot and one head?<br>-<br>A bed."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " At work:<br><br>Excuse me, may I disturb you shortly?<br>&nbsp;-<br>Of course, what is it?<br>-<br>Nothing, I just wanted to disturb you."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Where do we get virgin wool from? Ugly sheep."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is white and sits on your TV?<br><br>A fly wearing a nightie."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Andy has 150 candy bars. He eats 125. What does Andy have now?<br><br>Andy has diabetes now. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " It has four legs and it can fly, what is it? <br>-<br>Two birds. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Paul: I have good news and bad news. Which do you want to hear first?<br> <br>Michael: The good news.<br><br>Paul: The good news is that I have no bad news."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Whenever I’m sad I just read my blood donor ID. It always says “B<br> positive”."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What did the cowboy say to the cow that stood on the barn roof?<br>&nbsp;-<br> Get down, cow!"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " One twin to the other: \"You are ugly.\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is transparent and smells like worms?<br>-<br>A bird's fart :-)"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is yellow and cannot swim?<br>-<br>An excavator!<br>-<br>And why?<br>-<br> Because it only has one arm."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is red and drifts over a desert?<br>-<br>A fart with a sunburn."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is the tallest piece of furniture?<br>&nbsp;-<br><br>The bookcase. It’s got the most stories."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Last words of a highly poisonous snake?<br>&nbsp;<br>\"Drat, I bit myself on the tongue!\" "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Q: What is blue and smells like red paint?<br>-<br>A: Blue paint."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " One friend to another:<br><br>Why are you giving me an apricot?<br>-<br>I heard there’s no way you can get a date."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why do cows wear bells?<br>&nbsp;<br>Their horns don’t work."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A crying son runs to his mom: “Mom, mom, (sniff), Grandpa slapped me in the face.”<br>&nbsp;-<br>Grandpa approaches: “Stop lying or I’ll do it again!”"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Helium walks into a bar and orders water. Bartender apologizes, \"Sorry sir but we're currently out of water.\" What does Helium do? It doesn't react. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A woman starts chatting to a man on a subway: \"Hello my name is Margaret.\"<br> -<br>The man replies: \"Mine not.\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;What do you get when you cross a dog and an antenna?<br>-<br>A Golden Receiver."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why are eggs not very much into jokes? Because they could crack up."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;It’s always scary when a computer turns into a zombie. It has many mega-bites."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two skyscrapers are sitting in the cellar, knitting gasoline.<br><br>Is there anything odd about this?<br><br>Of course – you can only crochet gasoline!"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What would happen if you threw blue sneakers into the Red Sea?<br>-<br>They would get wet."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I never knew eggs were good for the eyes, but my cousin claims they gave him eggcelent vision."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " How can you open a banana? <br>-<br>With a monkey! "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What would you call a very funny mountain? <br>-<br>Hill Arious\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Question: What is green and has big, sturdy wheels?<br>-<br>Answer: The grass. The wheels were a lie."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What do you get when you crossbreed a mail pigeon and a parrot?<br>&nbsp;<br> A mail pigeon who stops to ask for directions. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " I was devastated to hear that Peter died. Are you coming to his funeral?<br>– <br>And why should I? He’s not coming to mine, either."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": "Why do we consider chickens as friendly animals? <br>-<br>Because they lay their eggs instead of throwing them."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What tea can vary in taste from bitter to sweet?<br>-<br>Realitea."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " You’ll never believe whom I saw yesterday! Everybody I laid my eyes on!"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two grains of sand go through the desert. One to the other: \"I have the feeling somebody is watching me.\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Oh, they were laughing when I told them I’m becoming a stand-up comedian. Well, ha! They’re not laughing now!"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two undies meet, one says to the other, \"Hey, have you been on holiday? You got so nice and brown!\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;What would Bears become without Bees?<br>-<br>Just ears."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two tomatoes walk across the street. One of them screams: \"Careful there is a truck comi...SPLASH!!!!\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Q: Why did the chicken cross the road?<br>-<br>A: It just felt like it."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " If I were to choose between dating and eating a soup – I think I’d rather eat the soup. Not much point in dating it."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is yellow and smells of bananas? Ape vomit. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Do you know what were my grandpa’s last words before he kicked the bucket? <br>&nbsp;<br>How far do you think I can kick this bucket here?"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A horse goes into a bar. <br>-<br>Barkeeper: \"Why such a long face?\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " “In our traditional farm hotel, you are woken by the call of the cockerel!” <br>– <br>“Very good, please tell him 9 o’clock.”"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " How can you tell you have an elephant in your bedroom? <br><br>By the big \"E\" on his pajamas."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is small, grey and triangular? <br><br>The shadow of the green triangle!"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is white and rolls up a mountain slope?<br>-<br>An avalanche who wants to get home because it’s gotten dark already."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A gummy bear sits on a power line and says to the other gummy bear, \"brzzztbrzzztbbbbrzzztbrrrrzt\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why did the elephant wear green socks?<br>-<br>Because the red ones were wet.<br><br>Why did the elephant swim on his back?<br>-<br>So his green ones wouldn't get wet too. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Why is the butt divided vertically and not horizontally? It would clap nicely if you ran down the stairs. Ok, now stop imagining it. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " At the movies: “Sorry we’re all sold out down to the last place.” <br>“Excellent, I’ll have the last place then.”<br>"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is a cannibal’s natural first choice in a restaurant?<br>&nbsp;<br> The waiter."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A guy orders at a bakery, \"I'd like 19 buns please.\" <br><br>The baker suggests, \"I think you should take 20, sir.\" <br><br>\"Why?\" asks the man, puzzled. <br><br>The baker replies, \"That way, you would have one more!\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is yellow and black and flies? <br>-<br>A group of mustard seeds in leather jackets! <br> "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " When a tampon and a sanitary pad are competing at the races, which of them is going to win?<br><br>The pad! The tampon keeps tripping on the string. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is the difference between a soccer star and a bank robber?<br>-<br> The bank robber goes, “Give me the money or I shoot!” <br><br>The soccer star goes, “Give me the money or I don’t shoot!”"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is black and white and waits on the washing line?<br>-<br> A fly in a wedding dress."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Dad to his son: \"&nbsp;I have nothing against us sharing an opinion, as long as it means that I keep my opinion and you share mine.\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is the difference between an eggplant and a chicken? <br>&nbsp;<br> They're both purple, except for the chicken. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Two cows sit in the basement, chopping up oil.<br><br>&nbsp;A screwdriver goes in through the door, goes up the wall, crosses the ceiling, heads back down the other wall and goes out through the second door.<br><br>&nbsp;One cow looks at the other and says, \"This is insane, did you see that?\" \"Yeah, totally insane, he never greets.\" "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A man wants to do a new parachute record: The longest freefall without pulling the rip cord. So he jumps a plane at a huge altitude. His height gauge shows 30 000 feet. He keeps falling. <br><br>In a while he checks the gauge again and now it shows 15 000 feet to the ground. <br><br>A few seconds later it shows 12 000 feet. He continues falling. Now it’s only 3 000 feet left. He grips the rip cord firmly in his hand. <br><br>At 1 500 feet he is singing in a shaky voice. Only 300 feet left. He waits till the last moment. <br><br>Then it’s only 150, 120, 90, 60, 30 feet till the ground. The man shrugs: Ah well, whatever. I can handle 30 feet without a parachute. "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What do you call an alligator that’s wearing a vest?<br>&nbsp;<br>An investigator."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " When I’m bored, I imitate everybody.<br>-<br>But that’s no way for an adult to behave.<br>-<br>But that’s no way for an adult to behave.<br>-<br>Come on, stop being stupid.<br>-<br>Come on, stop being stupid."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " A drummer and a bass player jump off a skyscraper – Boom Boom."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " How did Moses cut the sea in half?<br>-<br>With a seasaw."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Men are from Mars.<br><br>Women are from Venus.<br><br>Cows are from the Moooooooooon."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What does a farmer say when he's looking for his tractor?<br>-<br>\"Where is my tractor?\""
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " The last 4 letters in the word \"queue\" are silent. Can they be waiting their turn?"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Mr. Smith to his boss: <br> <br>Sorry boss, can I disturb you for a minute? <br>-<br> Boss: Yeah, no problem, what do you want?<br>-<br>Mr. Smith: Nothing, really. I just needed to disturb somebody."
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " Isn’t it funny that when boats get sick, they actually go to the doc(k)?"
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What does a skeleton say when he enters a bar?<br><br>BONEjour! "
+    },
+    {
+      "categoryid": "BadJokes",
+      "image": "",
+      "title": "",
+      "detail": " What is green, small, hairy and has three white points? <br><br>Well - nothing, really."
+    }
+  ]
+}
