@@ -516,7 +516,7 @@
       "image": "",
       "title": "",
       "detail": " Dad, can I leave the table please?<br>-<br>Sure, as long as you leave it right where it is."
-    }
+    } 
     
   ]
 }

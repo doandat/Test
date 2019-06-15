@@ -1,0 +1,52 @@
+{
+  "result": [
+    {
+      "idChannel": "BadJokes",
+      "name": "Bad Jokes",
+      "image": "img/BadJokes.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "CornyJokes",
+      "name": "Corny Jokes",
+      "image": "img/CornyJokes.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "CutesJokes",
+      "name": "Cutes Jokes",
+      "image": "img/CutesJokes.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "DadJokes",
+      "name": "Dad Jokes",
+      "image": "img/DadJokes.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "FunnyRiddlesAnswersJokes",
+      "name": "Funny Riddles Answers",
+      "image": "img/FunnyRiddlesAnswersJokes.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "HilariousJokes",
+      "name": "Hilarious Jokes",
+      "image": "img/HilariousJokes.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "HusbandAndWife",
+      "name": "Husband And Wife",
+      "image": "img/HusbandAndWife.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "ShortJoke",
+      "name": "Short Joke",
+      "image": "img/ShortJoke.jpg",
+      "hasSubCategory": false
+    },
+  ]
+}
