@@ -1,0 +1,1103 @@
+{
+  "result": [
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " You know you’re getting old when you stop to tie your shoelaces and wonder what else you could do while you’re down there.",
+      "author": "George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I asked God for a bike, but I know God doesn’t work that way. So I stole a bike and asked for forgiveness.",
+      "author": "Emo Philips"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Did anybody ever consider that cannibalism would resolve both overpopulation – and world hunger?",
+      "author": "Jonathan Swift "
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " If at first you don’t succeed . . . so much for skydiving. ",
+      "author": "Henny Youngman"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “If you think women are the weaker sex, try pulling the blanket back to your side.”",
+      "author": "Stuart Turner"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I tell you what always catches my eye. Short people with an umbrella.”",
+      "author": "Gary Delaney"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “My girlfriend's dog died. So I got her an identical one. She was livid: ‘What I'm going to do with two dead dogs?’",
+      "author": "Gary Delaney"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Wouldn’t exercise be more fun if calories screamed while you burned them?",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Do you ever get halfway through eating a horse and go ‘you know, I’m not as hungry as thought I was’?”",
+      "author": "Tim VineI"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " grew up with six brothers. That’s how I learned to dance–waiting for the bathroom. ",
+      "author": "Bob Hope"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I have Alzheimer’s bulimia – first I eat everything in sight and then I forget to puke.",
+      "author": "Cindy from Marzahn"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "When I die, I want to go peacefully like my grandfather did – in his sleep. Not yelling and screaming like the passengers in his car.",
+      "author": "Bob Monkhouse"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "“It’s been a tough week. I bought myself a memory foam mattress and now it’s trying to blackmail me.”",
+      "author": "Gary Delaney"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I intend to live forever. So far, so good.",
+      "author": "Steven Wright"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Always borrow money from a pessimist. He won’t expect it back.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " A stockbroker urged me to buy a stock that would triple its value every year. I told him, “At my age, I don’t even buy green bananas.\"",
+      "author": "Claude Pepper"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Happiness is having a large, loving, caring, close-knit family in another city.",
+      "author": "George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "First the doctor told me the good news: I was going to have a disease named after me.",
+      "author": "Steve Martin"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "The last woman I was in was the Statue of Liberty.",
+      "author": "Woddy Allen"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Honolulu – it’s got everything. Sand for the children, sun for the wife, sharks for the wife’s mother. ",
+      "author": "Ken Dodd"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I’m sorry, if you were right, I’d agree with you.”",
+      "author": "Robin Williams"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Politics: “Poli” a Latin word meaning “many”; and \"tics\" meaning “bloodsucking creatures”.",
+      "author": "Robin Williams"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Friendship is like peeing on yourself: everyone can see it, but only you get the warm feeling that it brings.",
+      "author": "Robert Bloch"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Women who seek to be equal with men lack ambition.",
+      "author": " Marilyn Monroe"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I live in a neighborhood so bad that you can get shot while getting shot.",
+      "author": "Chris Rock"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "“As a family we couldn’t decide whether to have Grandma buried or cremated, so in the end we decided to let her live.”",
+      "author": "Gary Delaney"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I look good. I mean, really good. Hey everyone! Come and see how good I look!",
+      "author": "Will Ferell"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I like holding the door for people who are far away, you know so they have to run a little.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “My legs are so sore from the gym that I almost couldn’t walk to the donut shop.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I was so drunk, I thought a tube of toothpaste was astronaut food.",
+      "author": " Will Ferell"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I love deadlines. I like the whooshing sound they make as they fly by. ",
+      "author": "Douglas Adams"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I bet giraffes don’t even know what farts smell like.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " My therapist told me the way to achieve true inner peace is to finish what I start. So far I’ve finished two bags of M&amp;Ms and a chocolate cake. I feel better already. ",
+      "author": "Dave Barry"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Ah, yes, divorce . . . from the Latin word meaning to rip out a man's genitals through his wallet.",
+      "author": "Robin Williams"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Always forgive your enemies; nothing annoys them as much. ",
+      "author": "Oscar Wilde"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Do not argue with an idiot. He will drag you down to his level and beat you with experience. ",
+      "author": "Greg King"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " We've had \"cloning\" in the South for years. It's called \"cousins\"",
+      "author": " Robin Williams"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Having a smoking section in a restaurant is like having a peeing section in a pool.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "\"I need my sleep. I need about eight hours a day, and about ten at night.\"",
+      "author": "Bill Hicks"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The only mystery in life is why the kamikaze pilots wore helmets. ",
+      "author": " Al McGuire"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Why did the chicken cross the road? Because you didn’t cook it!” ",
+      "author": " Gordon Ramsay (TV Chef)"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I'm not addicted to coke, I just love the way it smells",
+      "author": "Richard Pryor"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I can resist everything except temptation.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I’m sorry I slapped you. It’s just you seemed like you weren’t going to stop talking and I panicked.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Never interrupt your enemy when he's making a mistake. ",
+      "author": "Napoleon Bonaparte"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “A woman described me as a bit of a looker the other day. Well, “voyeur” was the actual word she used.”",
+      "author": "Gary Delaney"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Going to church doesn’t make you a Christian any more than standing in a garage makes you a car.",
+      "author": "Billy Sunday"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " A bargain is something you don’t need at a price you can’t resist. ",
+      "author": "Franklin Jones"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I didn’t give you the finger…you earned it.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The early bird catches the worm, eats more and dies sooner. ",
+      "author": "Czech proverb"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " He who laughs.....lasts. ",
+      "author": "Erma Bombeck"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "By all means, marry. If you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher. ",
+      "author": "Socrates"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "If A is success in life, then A is equal to X plus Y plus Z. Work is X; Y is play; and Z - keeping your mouth shut. ",
+      "author": "Albert Einstein"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Laughter is like a windshield wiper, it won’t stop the rain but it will allow you to keep going. ",
+      "author": "Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I saw that show, 50 Things To Do Before You Die. I would have thought the obvious one was ‘Shout for help’.”",
+      "author": "Jimmy Carry"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " If you steal from one author, it’s plagiarism; if you steal from many, it’s research. ",
+      "author": "Wilson Mizner"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "First you learn to read. Then you read to learn. ",
+      "author": "Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "“Rice is great if you’re really hungry and want to eat 2,000 of something.”",
+      "author": "Mitch Hedberg"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " If you think nobody cares if you’re alive, try missing a couple of car payments. ",
+      "author": "Flip Wilson"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “It’s a tradition in my family that we always have a Christmas jumper. It’s my job to talk them down.”",
+      "author": "Gary Delaney"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " How is it that one careless match can start a raging forest fire, yet it takes an entire box to start a campfire? ",
+      "author": "Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “If you live to be one hundred, you've got it made. Very few people die past that age. ”",
+      "author": "George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "My mother never saw the irony in calling me a son-of-a-bitch. ",
+      "author": "Jack Nicholson"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I was such an ugly kid. When I played in the sandbox the cat kept trying to cover me up.",
+      "author": "Rodney Dangerfield"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Patience is something you admire in the driver behind you, but not in the one ahead. ",
+      "author": "Bill McGlashen"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “My dream job would be the Karma delivery service.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Do you think you’re safe in a car with your seatbelts on? Dream on. My friend thought so. Now she’s pregnant.",
+      "author": "Anke Engelke"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Isn’t it a bit unnerving that doctors call what they do “practice”?",
+      "author": "George Carlin"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “What’s my type? Someone who is supportive. Someone who is warm. Someone I can just curl up and relax with. Wait I’m describing my bed again.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "I couldn’t repair your brakes, so I made your horn louder. ",
+      "author": " Steven Wright"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "A diplomat is someone who can tell you to go to hell in such a way that you will look forward to the trip.",
+      "author": "Caskie Stinnett"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " We’ve all heard that a million monkeys banging on a million typewriters will eventually reproduce the entire works of Shakespeare. Now, thanks to the Internet, we know this is not true. ",
+      "author": "Robert Wilensky"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “A two-year old is kind of like having a blender, but you don’t have a top for it.”",
+      "author": "Jerry Seinfeld"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Why didn’t Noah swat those two mosquitoes? ",
+      "author": "Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “They don’t make pizza or beer out of celery. And that is all you need to know about celery.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;“Money can’t buy you happiness? Well, check this out, I bought myself a happy meal.” ",
+      "author": "Paul F Taylor"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " When I was a boy, the Dead Sea was only sick.",
+      "author": "George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " When you go into court, you are putting your fate into the hands of twelve people who weren’t smart enough to get out of jury duty.",
+      "author": "Norm Crosby"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Those people who think they know everything are a great annoyance to those of us who do. ",
+      "author": "Isaac Asimov"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day. ",
+      "author": "Robert Frost"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I wouldn’t pay for a personal trainer, but I would pay someone to just knock unhealthy food out of my hands.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Before I got married I had six theories about bringing up children; now I have six children and no theories. ",
+      "author": "John Wilmot, Earl of Rochester"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " A bank is a place that will lend you money, if you can prove that you don’t need it. ",
+      "author": "Bob Hope"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Politics is supposed to be the second oldest profession. I have come to realize that it bears a very close resemblance to the first. ",
+      "author": "Ronald Reagan"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I hate housework! You make the beds, you do the dishes – and six months later you have to start all over again. ",
+      "author": "Joan Rivers"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " It takes only one drink to get me drunk. The trouble is, I can't remember if it's the thirteenth or the fourteenth.",
+      "author": "George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " We hope that, when the insects take over the world, they will remember with gratitude how we took them along on all our picnics. ",
+      "author": "Bill Vaughan"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Retirement at 65 is ridiculous. When I was 65 I still had pimples. ",
+      "author": " George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "An archaeologist is the best husband a woman can have; the older she gets, the more interested he is in her. ",
+      "author": " Agatha Christie"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Think of how stupid the average person is, and realize half of them are stupider than that.",
+      "author": "George Carlin"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " A woman would never make a nuclear bomb. They would never make a weapon that kills. They’d make a weapon that makes you feel bad for a while.",
+      "author": " Robin Williams"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The Forgetful Vegan: Man that sure was some good pepperoni pi-Oh Fuck!",
+      "author": " Zach Galifianakis"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " My mom had a very difficult childhood. My childhood.",
+      "author": "Cindy from Marzahn"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The shinbone is a device for finding furniture in a dark room. ",
+      "author": " Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Bisexuality immediately doubles your chances for a date on Saturday night.",
+      "author": "Rodney Dangerfield"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason. ",
+      "author": "José Maria de Eça de Queiroz"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "The odds of going to the store for a loaf of bread and coming out with only a loaf of bread are three billion to one.",
+      "author": "Erma Bombeck"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Life expectancy would grow by leaps and bounds if green vegetables smelled as good as bacon.",
+      "author": "Doug Larson"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “The second I get shampoo in my eyes, I’m 100% sure there’s a murderer in my bathroom.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "“I’m always worried when a woman sees me naked for the first time. That she's just gonna scream and run out of the park.”",
+      "author": "Gary Delaney"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Some cause happiness wherever they go; others whenever they go. ",
+      "author": "Oscar Wilde"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Inside me there’s a thin person struggling to get out, but I can usually sedate him with four or five cupcakes. ",
+      "author": "Bob Thaves"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " To keep your marriage brimming, with love in the loving cup, whenever you’re wrong admit it; whenever you’re right shut up. ",
+      "author": "Ogden Nash"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " You want a friend in Washington? Get a dog. ",
+      "author": "Harry S. Truman"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " To attract men, I wear a perfume called New Car Interior. ",
+      "author": "Rita Rudner"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I’m planning to adopt a dog soon, it wasn’t my first choice but my doctor told me I can’t have any biologically.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Two things are infinite, the universe and human stupidity, and I am not yet completely sure about the universe. ",
+      "author": "Albert Einstein"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "My favorite machine at the gym is the vending machine. ",
+      "author": " Caroline Rhea"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Common sense is like deodorant. The people who need it most never use it. ",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named \"Bush\", \"Dick\", and \"Colin.\" Need I say more? ",
+      "author": "Chris Rock"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Your secrets are safe with me because, chances are, I wasn’t even listening.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “You used so much oil the US want to invade the plate!” ",
+      "author": "Gordon Ramsay (TV Chef)"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “You can't help getting older, but you don't have to get old.”",
+      "author": "George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Accept who you are. Unless you're a serial killer. ",
+      "author": "Ellen DeGeneres"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy. ",
+      "author": "Albert Einstein"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " In those days the best painkiller was ice; it wasn't addictive and it was particularly effective if you poured some whiskey over it.",
+      "author": "George Burns"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I’ve probably wasted a solid year of my life just staring into the fridge.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "When life gives you lemons, squirt someone in the eye. ",
+      "author": "Cathy Guisewite"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Nothing spoils a good story like the arrival of an eyewitness. ",
+      "author": "Mark Twain"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Do crabs think we walk sideways?”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Don't be so humble - you are not that great. ",
+      "author": "Golda Meir"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " If you're too open-minded; your brains will fall out. ",
+      "author": "Lawrence Ferlinghetti"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " What a kid I got, I told him about the birds and the bees and he told me about the butcher and my wife.",
+      "author": "Rodney Dangerfield"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “If we ever travel thousands of light years to a planet inhabited by intelligent life, let’s just make patterns in their crops and leave.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "I don’t hate you… I just don’t like that you exist. ",
+      "author": "Gena Showalter"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings. ",
+      "author": "Robert Benchley"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " People say money is not a key to happiness, but I always figured if you have enough money, you can have a key made. ",
+      "author": "Joan Rivers"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " People say: \"nothing is impossible\", but I do nothing every day. ",
+      "author": "Winnie the Pooh"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Fish who are caught and released are like the aquatic equivalent of people who claim to have been abducted by aliens.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The scientific theory I like best is that the rings of Saturn are composed entirely of lost airline luggage. ",
+      "author": "Mark RussellI "
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “I’m glad I don’t have to hunt for my food, I don’t even know where Sandwiches live.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man. ",
+      "author": "Lana Turner"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Women should not have children after 35. Really… 35 children is enough.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " It’s useless to hold a person to anything they say when they are in love, drunk or running for office.",
+      "author": "Shirley MacLaine"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " There are three kinds of people in this world: those who make things happen; those who watch things happen; and those who wonder what the hell happened.",
+      "author": "Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The Bible tells us to love our neighbors, and also to love our enemies; probably because generally they are the same people. ",
+      "author": "G. K. Chesterton"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Just remember, if the world didn’t suck, we’d all fall off. ",
+      "author": "Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Chips have little nutritional value. That’s why you need to eat the whole bag.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I’m so broke, I can’t even pay attention. ",
+      "author": "Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I’ve realized you can use a fork as a spoon if you use it rapidly enough. ",
+      "author": "John Mayer"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The reason I talk to myself is because I’m the only one whose answers I accept. ",
+      "author": "George Carlin"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Break the ice in a crowded elevator by asking how much everyone weighs.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "A bank is a place where they lend you an umbrella in fair weather and ask for it back when it begins to rain. ",
+      "author": "Robert Frost"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “If you ever feel unattractive, just remember that you look like your ancestors and all of them got laid.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.”",
+      "author": "Mark Twain"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " &nbsp;“I write jokes for a living, man. See I sit in my hotel at night, I think of something that's funny and then I go get a pen and I write it down. Or if the pen's too far away, I have to convince myself that what I thought of ain't funny.” ",
+      "author": "Mitch Hedberg"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " A quick word about oral contraception. I asked a girl to go to bed with me, she said ”no”. ",
+      "author": "Woody Allen"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Those are my principles, and if you don’t like them… well, I have others. ",
+      "author": "Groucho Marx"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Roses are red, violets are blue, I’m a schizophrenic and so am I. ",
+      "author": " Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " The trouble with political jokes is that very often they get elected. ",
+      "author": " Will Rogers"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Hard work never killed anybody, but why take a chance? ",
+      "author": "Edgar Bergen"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " Everyone is entitled to be stupid, but some abuse the privilege.",
+      "author": " Anonymous"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " “Running is the best way to remind yourself how much you love sitting.”",
+      "author": "Bill Murray"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "Three can keep a secret, if two of them are dead. ",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " I never forget a face, but in your case I’ll be glad to make an exception.",
+      "author": "Groucho Marx"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": "If you can’t beat them, arrange to have them beaten. ",
+      "author": "George Carlin"
+    },
+    {
+      "categoryid": "FunnyQuotes",
+      "image": "",
+      "title": "",
+      "detail": " We learn from experience that men never learn anything from experience. ",
+      "author": "George Bernard Shaw"
+    }
+  ]
+}
