@@ -9,7 +9,7 @@
     {
       "idChannel": "funny",
       "name": "Laughs Gags",
-      "image": "img/funny,jpg",
+      "image": "img/funny.jpg",
       "hasSubCategory" : false
     },
     {
