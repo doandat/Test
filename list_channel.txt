@@ -1,0 +1,23 @@
+{
+  "result": [
+    {
+      "idChannel": "cutes",
+      "name": "Cutes",
+      "image": "img/cutes.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "funny",
+      "name": "Laughs Gags",
+      "image": "img/funny,jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "troll",
+      "name": "troll",
+      "image": "img/troll.jpg",
+      "hasSubCategory" : false
+    }
+
+  ]
+}
