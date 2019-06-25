@@ -3,6 +3,8 @@
   "message": "",
   "isPassAppstore": true,
   "isForceAppstoreReviewing": false,
+  "isPassAOSStore": true,
+  "isForceAOSReviewing": false,
   "result": [
     {
       "categoryid": "FunnyQuotes",
