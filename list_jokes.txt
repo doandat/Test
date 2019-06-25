@@ -1,4 +1,8 @@
 {
+  "code": 200,
+  "message": "",
+  "isPassAppstore": true,
+  "isForceAppstoreReviewing": false,
   "result": [
     {
       "image": "img/BadJokes.jpg",
