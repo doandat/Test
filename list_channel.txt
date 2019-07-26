@@ -14,7 +14,7 @@
     },
     {
       "idChannel": "troll",
-      "name": "troll",
+      "name": "Troll",
       "image": "img/troll.jpg",
       "hasSubCategory" : false
     }
