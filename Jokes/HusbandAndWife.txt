@@ -46,7 +46,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Q: Why doesn’t our democratic society permit a man to have 2 wives?<br>-<br> A: Because our laws protect us against cruel and unusual punishment."
+      "detail": " Q: Why doesn’t our democratic society permit a man to have 2 wives?<br>- A: Because our laws protect us against cruel and unusual punishment."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -76,7 +76,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " I tried to re-marry my ex-wife.<br>-<br>But she figured out I was only after my money."
+      "detail": " I tried to re-marry my ex-wife.<br>-But she figured out I was only after my money."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -100,7 +100,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " A robber robs a bank, gets all the money and is about to leave, but before that he asks a customer who’s lying on the floor, “Have you seen me rob this bank?”<br>-<br>“Yes, sir,” says the customer and gets promptly shot. <br>-<br>“Have you seen me rob this bank?” the robber asks another customer.<br>-<br>“Absolutely not, sir, but my wife here saw everything!”"
+      "detail": " A robber robs a bank, gets all the money and is about to leave, but before that he asks a customer who’s lying on the floor, “Have you seen me rob this bank?”<br>-“Yes, sir,” says the customer and gets promptly shot. <br>-“Have you seen me rob this bank?” the robber asks another customer.<br>-“Absolutely not, sir, but my wife here saw everything!”"
     },
     {
       "categoryid": "HusbandAndWife",
@@ -136,13 +136,13 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Honey, do you think I gained weight?<br>-<br>No, I think the living room got smaller."
+      "detail": " Honey, do you think I gained weight?<br>-No, I think the living room got smaller."
     },
     {
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Honey, what will you give me for our 25th anniversary?<br>-<br>A trip to Thailand?<br>- <br>Wow, that’s awesome, and for our 50th anniversary?<br>-<br> Then I pick you up again. "
+      "detail": " Honey, what will you give me for our 25th anniversary?<br>-A trip to Thailand?<br>- <br>Wow, that’s awesome, and for our 50th anniversary?<br>- Then I pick you up again. "
     },
     {
       "categoryid": "HusbandAndWife",
@@ -172,7 +172,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " I got lost!<br>-<br>Where are you?<br>-<br>In the car. <br><br>Dear audience, ladies and gentlemen, I present to you my wife! "
+      "detail": " I got lost!<br>-Where are you?<br>-In the car. <br><br>Dear audience, ladies and gentlemen, I present to you my wife! "
     },
     {
       "categoryid": "HusbandAndWife",
@@ -310,13 +310,13 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " &nbsp;\"I got lost.\"<br>-<br>\"Where are you?\"<br>-<br>\"In the car.\"<br><br> Ladies and gentlemen - I present to you my wife!"
+      "detail": " &nbsp;\"I got lost.\"<br>-\"Where are you?\"<br>-\"In the car.\"<br><br> Ladies and gentlemen - I present to you my wife!"
     },
     {
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " I heard people say you can’t live without love.<br>-<br>I still think oxygen ranks higher."
+      "detail": " I heard people say you can’t live without love.<br>-I still think oxygen ranks higher."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -370,7 +370,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " My wife wants to talk to me about my childish behavior.<br>-<br>Well, she may want all she likes, but she’s not getting inside my pillow castle without a password!"
+      "detail": " My wife wants to talk to me about my childish behavior.<br>-Well, she may want all she likes, but she’s not getting inside my pillow castle without a password!"
     },
     {
       "categoryid": "HusbandAndWife",
@@ -490,7 +490,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " \"If I’d known you were this poor, I’d never have married you.\"<br>-<br> \"Don’t pretend I didn’t warn you! How many times did I tell you that you’re everything I have?\""
+      "detail": " \"If I’d known you were this poor, I’d never have married you.\"<br>- \"Don’t pretend I didn’t warn you! How many times did I tell you that you’re everything I have?\""
     },
     {
       "categoryid": "HusbandAndWife",
@@ -586,7 +586,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Woman says to her fiancé: “When we’re married, we’ll have three kids. A brown-haired girl and two blonde boys.<br>-<br>Fiancé: “How can you tell with such precision?”<br>-<br>Woman: „Because I told my parents I’ll finally pick up the kids from them once we’re married.“<br>"
+      "detail": " Woman says to her fiancé: “When we’re married, we’ll have three kids. A brown-haired girl and two blonde boys.<br>-Fiancé: “How can you tell with such precision?”<br>-Woman: „Because I told my parents I’ll finally pick up the kids from them once we’re married.“<br>"
     },
     {
       "categoryid": "HusbandAndWife",
@@ -658,7 +658,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Judge: Why on Earth did you hit your husband with a chair?<br>-<br>Wife: Because the table was too heavy."
+      "detail": " Judge: Why on Earth did you hit your husband with a chair?<br>-Wife: Because the table was too heavy."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -724,7 +724,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>Husband: “Soon we will be married for 10 years. I will get you a nice new car for our anniversary.”<br>-<br>Wife: “Oh darling. Nothing would please me more!”<br><br>And so the husband got her nothing for the anniversary."
+      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>Husband: “Soon we will be married for 10 years. I will get you a nice new car for our anniversary.”<br>-Wife: “Oh darling. Nothing would please me more!”<br><br>And so the husband got her nothing for the anniversary."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -742,7 +742,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " I shouted at my wife while she was in labor: \"Push honey! Come on and push! You have to push harder!\" <br>-<br>She said: “Stop talking to me you cretin!”<br>- <br>I mean what did she expect? It's an old car and if she wants to get to the hospital we need to get it started somehow..."
+      "detail": " I shouted at my wife while she was in labor: \"Push honey! Come on and push! You have to push harder!\" <br>-She said: “Stop talking to me you cretin!”<br>- <br>I mean what did she expect? It's an old car and if she wants to get to the hospital we need to get it started somehow..."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -766,7 +766,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " When did you get to know your wife?<br>-<br>Sadly, about a week after the wedding."
+      "detail": " When did you get to know your wife?<br>-Sadly, about a week after the wedding."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -796,7 +796,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " <div class=\"werbdrei\"> <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script> <!-- Short-Funny-Text-Unten --> <ins class=\"adsbygoogle\" style=\"display:inline-block;width:300px;height:250px\" data-ad-client=\"ca-pub-2369405906773067\" data-ad-slot=\"5054269683\"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script></div> Doctor: \"Mrs. Apfelbaum, your husband is very sick.\"<br>-<br>Wife: \"Oh no. What is it?\"<br>-<br>Doctor: \"He is sick of your shit!\"<br>-<br>Doctor winks ;) at the husband and gives him a high five. "
+      "detail": " <div class=\"werbdrei\"> <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script> <!-- Short-Funny-Text-Unten --> <ins class=\"adsbygoogle\" style=\"display:inline-block;width:300px;height:250px\" data-ad-client=\"ca-pub-2369405906773067\" data-ad-slot=\"5054269683\"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script></div> Doctor: \"Mrs. Apfelbaum, your husband is very sick.\"<br>-Wife: \"Oh no. What is it?\"<br>-Doctor: \"He is sick of your shit!\"<br>-Doctor winks ;) at the husband and gives him a high five. "
     },
     {
       "categoryid": "HusbandAndWife",
@@ -814,7 +814,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Husband leaves the house with the dog. <br>-<br>Wife asks: \"Are you taking the donkey for a walk?\"<br>-<br>Husband: \"You mean the dog, right?\"<br>-<br> Wife: \"Shush, I am talking to the dog!\"<br>"
+      "detail": " Husband leaves the house with the dog. <br>-Wife asks: \"Are you taking the donkey for a walk?\"<br>-Husband: \"You mean the dog, right?\"<br>- Wife: \"Shush, I am talking to the dog!\"<br>"
     },
     {
       "categoryid": "HusbandAndWife",
@@ -862,13 +862,13 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Wife: Phillip, you have no clothes on, and you're oiled. Why?! Please explain yourself. <br>-<br>Husband: Well, you did nag me. You said that I never glisten!"
+      "detail": " Wife: Phillip, you have no clothes on, and you're oiled. Why?! Please explain yourself. <br>-Husband: Well, you did nag me. You said that I never glisten!"
     },
     {
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " <div class=\"werbdrei\"> <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script> <!-- Short-Funny-Text-Unten --> <ins class=\"adsbygoogle\" style=\"display:inline-block;width:300px;height:250px\" data-ad-client=\"ca-pub-2369405906773067\" data-ad-slot=\"5054269683\"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><br> </div> My wife had a terrible accident today with my car. <br>-<br>OMG, is she hurt?<br>- <br>Not yet. She locked herself in the bathroom. "
+      "detail": " <div class=\"werbdrei\"> <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script> <!-- Short-Funny-Text-Unten --> <ins class=\"adsbygoogle\" style=\"display:inline-block;width:300px;height:250px\" data-ad-client=\"ca-pub-2369405906773067\" data-ad-slot=\"5054269683\"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><br> </div> My wife had a terrible accident today with my car. <br>-OMG, is she hurt?<br>- <br>Not yet. She locked herself in the bathroom. "
     },
     {
       "categoryid": "HusbandAndWife",

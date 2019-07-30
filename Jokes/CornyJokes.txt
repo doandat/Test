@@ -48,7 +48,7 @@
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " What is yellow and can’t swim?<br>-<br>An excavator.<br>-<br>Did you find it funny?<br>-<br>No.<br>-<br>Neither did the excavator operator."
+      "detail": " What is yellow and can’t swim?<br>- An excavator.<br>- Did you find it funny?<br>- No.<br>- Neither did the excavator operator."
     },
     {
       "categoryid": "CornyJokes",

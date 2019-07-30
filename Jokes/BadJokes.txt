@@ -358,7 +358,7 @@
       "categoryid": "BadJokes",
       "image": "",
       "title": "",
-      "detail": " Why did the elephant wear green socks?<br>-<br>Because the red ones were wet.<br><br>Why did the elephant swim on his back?<br>-<br>So his green ones wouldn't get wet too. "
+      "detail": " Why did the elephant wear green socks?<br>- Because the red ones were wet.<br><br>Why did the elephant swim on his back?<br>- So his green ones wouldn't get wet too. "
     },
     {
       "categoryid": "BadJokes",

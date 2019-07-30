@@ -22,7 +22,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " “Name me five different animals, Johnny.”<br>&nbsp;<br>“The dog, the dog’s brother, the dog’s sister, the dog’s cousin and the dog’s aunt.”<br>"
+      "detail": " “Name me five different animals, Johnny.”<br>&nbsp;<br>“The dog, the dog’s brother, the dog’s sister, the dog’s cousin and the dog’s aunt.”"
     },
     {
       "categoryid": "CutesJokes",
@@ -40,7 +40,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " What is black – white – black – white – black – white? <br><br>A penguin rolling down a mountain!"
+      "detail": " What is black – white – black – white – black – white? <br>A penguin rolling down a mountain!"
     },
     {
       "categoryid": "CutesJokes",
