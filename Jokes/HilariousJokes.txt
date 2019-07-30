@@ -125,7 +125,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A police officer stops a minivan full of elderly ladies being driven by an old gentleman because they’re only going 25 mph, stopping the mid-day traffic. <br>-The policeman asks the driver why is he going so slow.<br> -<br>“Well that’s the speed limit, isn’t it! There was a sign saying 25 and everything!” the driver defends himself.<br>-The policeman sighs, “No, sir, that’s the number of the highway you’re on. It has nothing to do with the speed limit.”<br>-“Oh, so that’s what it means…” says the driver, looking shocked.<br>-The officer looks at the rest of the van and notices the grannies are looking somewhat frozen and stiff.<br>-“What’s up with the ladies?” he asks the driver.<br>-“Um…” the driver scratches his head, “you see, we just got off highway 150…”"
+      "detail": " A police officer stops a minivan full of elderly ladies being driven by an old gentleman because they’re only going 25 mph, stopping the mid-day traffic. <br>-The policeman asks the driver why is he going so slow.<br> -“Well that’s the speed limit, isn’t it! There was a sign saying 25 and everything!” the driver defends himself.<br>-The policeman sighs, “No, sir, that’s the number of the highway you’re on. It has nothing to do with the speed limit.”<br>-“Oh, so that’s what it means…” says the driver, looking shocked.<br>-The officer looks at the rest of the van and notices the grannies are looking somewhat frozen and stiff.<br>-“What’s up with the ladies?” he asks the driver.<br>-“Um…” the driver scratches his head, “you see, we just got off highway 150…”"
     },
     {
       "categoryid": "HilariousJokes",
@@ -143,7 +143,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A Japanese man in a monastery atop a sacred mountain asks the wise man: <br>- \"Master Ayumu, why do all Westerners think that Japanese people look alike?\"<br> -<br>\"I am not Master Ayumu.\""
+      "detail": " A Japanese man in a monastery atop a sacred mountain asks the wise man: <br>- \"Master Ayumu, why do all Westerners think that Japanese people look alike?\"<br> -\"I am not Master Ayumu.\""
     },
     {
       "categoryid": "HilariousJokes",
@@ -575,7 +575,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " Roses are red. <br>Violets are red. <br>My lawn is red. <br>My dog is red.<br> -<br>Oh hell, my garden’s on fire. "
+      "detail": " Roses are red. <br>Violets are red. <br>My lawn is red. <br>My dog is red.<br> -Oh hell, my garden’s on fire. "
     },
     {
       "categoryid": "HilariousJokes",

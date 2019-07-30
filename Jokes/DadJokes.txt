@@ -190,7 +190,7 @@
       "categoryid": "DadJokes",
       "image": "",
       "title": "",
-      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>What do you call a sheep without legs? <br> -<br>A cloud."
+      "detail": "<div class=\"hauptinner\"> <br>&nbsp;&nbsp;&nbsp; &nbsp;<br>What do you call a sheep without legs? <br> -A cloud."
     },
     {
       "categoryid": "DadJokes",
@@ -340,7 +340,7 @@
       "categoryid": "DadJokes",
       "image": "",
       "title": "",
-      "detail": " Why is our nose right in the middle of our face? <br>&nbsp;-<br>Well, it is the scenter."
+      "detail": " Why is our nose right in the middle of our face? <br>&nbsp;-Well, it is the scenter."
     },
     {
       "categoryid": "DadJokes",

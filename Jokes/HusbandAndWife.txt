@@ -4,12 +4,6 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": "<div class=\"hauptinner\"> &nbsp;&nbsp; &nbsp;<br>&nbsp;<br> &nbsp;"
-    },
-    {
-      "categoryid": "HusbandAndWife",
-      "image": "",
-      "title": "",
       "detail": " Woman to her husband while at it: \"Please say dirty things to me!\"<br>&nbsp;<br> Man: \"Bath, Kitchen, Living room...\"<br> "
     },
     {
@@ -178,7 +172,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Despite protests, I put a high-voltage electric fence around my property.<br> -<br>My wife’s dead against it."
+      "detail": " Despite protests, I put a high-voltage electric fence around my property.<br> -My wife’s dead against it."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -472,7 +466,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Knock Knock<br>&nbsp;-<br>Who's there?<br>&nbsp;-<br>The love of your life!<br>&nbsp;-<br> Liar, you know chocolate can't speak."
+      "detail": " Knock Knock<br>&nbsp;-Who's there?<br>&nbsp;-The love of your life!<br>&nbsp;- Liar, you know chocolate can't speak."
     },
     {
       "categoryid": "HusbandAndWife",
@@ -496,7 +490,7 @@
       "categoryid": "HusbandAndWife",
       "image": "",
       "title": "",
-      "detail": " Girl: One day I will marry. A lot of men will be sad that day.<br>&nbsp;-<br> Boy: Wow, how many men do you plan to marry?"
+      "detail": " Girl: One day I will marry. A lot of men will be sad that day.<br>&nbsp;- Boy: Wow, how many men do you plan to marry?"
     },
     {
       "categoryid": "HusbandAndWife",

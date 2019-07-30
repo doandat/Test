@@ -178,7 +178,7 @@
       "categoryid": "BadJokes",
       "image": "",
       "title": "",
-      "detail": "A woman starts chatting to a man on a subway: \"Hello my name is Margaret.\"<br> -<br>The man replies: \"Mine not.\""
+      "detail": "A woman starts chatting to a man on a subway: \"Hello my name is Margaret.\"<br> -The man replies: \"Mine not.\""
     },
     {
       "categoryid": "BadJokes",

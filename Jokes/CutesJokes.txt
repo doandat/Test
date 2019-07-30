@@ -106,7 +106,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " Daughter asks her mother, “Mum, how long have you been married to dad?”<br> -<br> “Ten years.”<br>-“Oh, and how many do you still have left?”"
+      "detail": " Daughter asks her mother, “Mum, how long have you been married to dad?”<br> - “Ten years.”<br>-“Oh, and how many do you still have left?”"
     },
     {
       "categoryid": "CutesJokes",
