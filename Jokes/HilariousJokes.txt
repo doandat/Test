@@ -89,7 +89,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " Two teenagers, Fred and Joe, meet after school and Fred is all excited: “Man I was at the most awesome party this weekend! We went to this dude’s house and guy had toilets made of pure gold!”<br><br>“No way!”<br><br>“Yes way,” insists Fred, “come with me and check it out for yourself if you don’t believe me.”<br>-<br>Twenty minutes later they’re ringing the doorbell at the place. A middle-aged lady opens and Fred eagerly asks her, “Hi! I’m sorry to bother you but there was a party at your house yesterday and my friend doesn’t believe that you have toilet bowls of pure gold!”<br>-<br>The lady looks at him for a moment and then yells into the inside of the house, “Roger, the pig that shat in your trombone is here!”"
+      "detail": " Two teenagers, Fred and Joe, meet after school and Fred is all excited: “Man I was at the most awesome party this weekend! We went to this dude’s house and guy had toilets made of pure gold!”<br><br>“No way!”<br><br>“Yes way,” insists Fred, “come with me and check it out for yourself if you don’t believe me.”<br>-Twenty minutes later they’re ringing the doorbell at the place. A middle-aged lady opens and Fred eagerly asks her, “Hi! I’m sorry to bother you but there was a party at your house yesterday and my friend doesn’t believe that you have toilet bowls of pure gold!”<br>-The lady looks at him for a moment and then yells into the inside of the house, “Roger, the pig that shat in your trombone is here!”"
     },
     {
       "categoryid": "HilariousJokes",
@@ -125,13 +125,13 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A police officer stops a minivan full of elderly ladies being driven by an old gentleman because they’re only going 25 mph, stopping the mid-day traffic. <br>-<br>The policeman asks the driver why is he going so slow.<br> -<br>“Well that’s the speed limit, isn’t it! There was a sign saying 25 and everything!” the driver defends himself.<br>-<br>The policeman sighs, “No, sir, that’s the number of the highway you’re on. It has nothing to do with the speed limit.”<br>-<br>“Oh, so that’s what it means…” says the driver, looking shocked.<br>-<br>The officer looks at the rest of the van and notices the grannies are looking somewhat frozen and stiff.<br>-<br>“What’s up with the ladies?” he asks the driver.<br>-<br>“Um…” the driver scratches his head, “you see, we just got off highway 150…”"
+      "detail": " A police officer stops a minivan full of elderly ladies being driven by an old gentleman because they’re only going 25 mph, stopping the mid-day traffic. <br>-The policeman asks the driver why is he going so slow.<br> -<br>“Well that’s the speed limit, isn’t it! There was a sign saying 25 and everything!” the driver defends himself.<br>-The policeman sighs, “No, sir, that’s the number of the highway you’re on. It has nothing to do with the speed limit.”<br>-“Oh, so that’s what it means…” says the driver, looking shocked.<br>-The officer looks at the rest of the van and notices the grannies are looking somewhat frozen and stiff.<br>-“What’s up with the ladies?” he asks the driver.<br>-“Um…” the driver scratches his head, “you see, we just got off highway 150…”"
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " At a disco:<br>&nbsp;<br>He: “Wow, what’s a cute girl like you doing in a corner all alone?”<br>-<br>She: “I had to fart.”"
+      "detail": " At a disco:<br>&nbsp;<br>He: “Wow, what’s a cute girl like you doing in a corner all alone?”<br>-She: “I had to fart.”"
     },
     {
       "categoryid": "HilariousJokes",
@@ -143,7 +143,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A Japanese man in a monastery atop a sacred mountain asks the wise man: <br>-<br> \"Master Ayumu, why do all Westerners think that Japanese people look alike?\"<br> -<br>\"I am not Master Ayumu.\""
+      "detail": " A Japanese man in a monastery atop a sacred mountain asks the wise man: <br>- \"Master Ayumu, why do all Westerners think that Japanese people look alike?\"<br> -<br>\"I am not Master Ayumu.\""
     },
     {
       "categoryid": "HilariousJokes",
@@ -197,13 +197,13 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A mom shark is teaching her son how to hunt swimmers properly.<br>-<br>“So, first you go and circle them making sure your fin is showing. And then you go at them full blast and eat them.”<br><br>“OK, but why don’t I just go at them full blast and eat them right away?”<br><br>“I guess you could, son, but would you really want to eat them with all that shit in their intestines?”"
+      "detail": " A mom shark is teaching her son how to hunt swimmers properly.<br>-“So, first you go and circle them making sure your fin is showing. And then you go at them full blast and eat them.”<br><br>“OK, but why don’t I just go at them full blast and eat them right away?”<br><br>“I guess you could, son, but would you really want to eat them with all that shit in their intestines?”"
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " Mum, I'm already 14, can't I finally get a bra?!<br>-<br>NO Harold!"
+      "detail": " Mum, I'm already 14, can't I finally get a bra?!<br>-NO Harold!"
     },
     {
       "categoryid": "HilariousJokes",
@@ -347,7 +347,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " Why hasn’t there ever been a vegan to the Moon?<br>-<br>Because there’s nobody there to whom they could tell they’re vegan. "
+      "detail": " Why hasn’t there ever been a vegan to the Moon?<br>-Because there’s nobody there to whom they could tell they’re vegan. "
     },
     {
       "categoryid": "HilariousJokes",
@@ -449,7 +449,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " What is black, sits in a tree and is very dangerous?<br>-<br>A raven with a machine gun. "
+      "detail": " What is black, sits in a tree and is very dangerous?<br>-A raven with a machine gun. "
     },
     {
       "categoryid": "HilariousJokes",
@@ -461,25 +461,25 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " Girl: \"I'm sick and tired of you pretending to be some detective ace all the time. I think we should split up.\"<br>-<br>Me: \"Excellent idea. That way we can cover more ground.\""
+      "detail": " Girl: \"I'm sick and tired of you pretending to be some detective ace all the time. I think we should split up.\"<br>-Me: \"Excellent idea. That way we can cover more ground.\""
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " An English teacher asks Little Johnny: “Make an opposite of this sentence: ‘Kids in the dark usually make errors.’”<br>-<br>Little Johnny: “Errors in the dark usually make children.\""
+      "detail": " An English teacher asks Little Johnny: “Make an opposite of this sentence: ‘Kids in the dark usually make errors.’”<br>-Little Johnny: “Errors in the dark usually make children.\""
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A five-year-old Mikey asks his Grandpa, “Grandpa, what do you call it when there are two people on top of each other in bed?”<br>-<br>The Grandpa feels very uncomfortable but decides not to confuse the child and bravely says, “That’s intercourse, my boy.”<br>-<br>“OK,” nods Mikey and off he goes.<br>-<br> He comes back after five minutes and says, “Grandpa, that’s not right. I’ve just spoken to mom and she said that it’s not called intercourse but a bunk bed!”"
+      "detail": " A five-year-old Mikey asks his Grandpa, “Grandpa, what do you call it when there are two people on top of each other in bed?”<br>-The Grandpa feels very uncomfortable but decides not to confuse the child and bravely says, “That’s intercourse, my boy.”<br>-“OK,” nods Mikey and off he goes.<br>- He comes back after five minutes and says, “Grandpa, that’s not right. I’ve just spoken to mom and she said that it’s not called intercourse but a bunk bed!”"
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A guy wakes up in the morning and tells his wife: “Wow darling, you won’t believe what happened. I dreamt I was forced to eat a live sheep and now I can’t see my pillow anywhere!”<br>-<br>The wife answers, “The pillow’s fine, it’s lying right there on the floor, but I have been calling our dog in vain for the past 5 minutes!”"
+      "detail": " A guy wakes up in the morning and tells his wife: “Wow darling, you won’t believe what happened. I dreamt I was forced to eat a live sheep and now I can’t see my pillow anywhere!”<br>-The wife answers, “The pillow’s fine, it’s lying right there on the floor, but I have been calling our dog in vain for the past 5 minutes!”"
     },
     {
       "categoryid": "HilariousJokes",
@@ -539,25 +539,25 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": "I made cookies for you. It is an apology because I crashed your car. <br>-<br>YOU DID WHAT?!<br>-<br>Cookies. I made cookies for you."
+      "detail": "I made cookies for you. It is an apology because I crashed your car. <br>-YOU DID WHAT?!<br>-Cookies. I made cookies for you."
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " Tom and Anna are both 60 years old and have been married for 40 years. <br> <br>One day they go for a walk and all of a sudden a good fairy stands in front of them and says, “You’ve been married for so long and you’re so cute together, I’ll grant you a wish each.”<br><br>The woman is beside herself with joy and wishes for a trip to Thailand. Poof – she’s holding two tickets to Thailand and a five star hotel voucher for two.<br>-<br>The man says, “Wow, that’s one chance in a lifetime! I’m sorry, darling, but I wish I had a wife that’s 30 years younger than me.”<br>-<br>“Are you sure?” asks the fairy. <br>-<br>“Yes!” replies Tom without hesitation.<br>-<br>Poof once more – and he’s 90."
+      "detail": " Tom and Anna are both 60 years old and have been married for 40 years. <br> <br>One day they go for a walk and all of a sudden a good fairy stands in front of them and says, “You’ve been married for so long and you’re so cute together, I’ll grant you a wish each.”<br><br>The woman is beside herself with joy and wishes for a trip to Thailand. Poof – she’s holding two tickets to Thailand and a five star hotel voucher for two.<br>-The man says, “Wow, that’s one chance in a lifetime! I’m sorry, darling, but I wish I had a wife that’s 30 years younger than me.”<br>-“Are you sure?” asks the fairy. <br>-“Yes!” replies Tom without hesitation.<br>-Poof once more – and he’s 90."
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " A man and his wife are getting ready for a gala event. The wife gets into her dress and asks her husband, \"Does this make my butt look too big, Derek?\"<br>-<br>The husband sighs and says, \"Sweetie, do you promise that you won’t get angry, no matter what I say?\"<br>-<br>The wife gulps and says, \"Of course, Derek, I promise, I won’t get angry.\"<br>-<br>The husband looks her over from all sides and says, \"I slept with your cousin.\""
+      "detail": " A man and his wife are getting ready for a gala event. The wife gets into her dress and asks her husband, \"Does this make my butt look too big, Derek?\"<br>-The husband sighs and says, \"Sweetie, do you promise that you won’t get angry, no matter what I say?\"<br>-The wife gulps and says, \"Of course, Derek, I promise, I won’t get angry.\"<br>-The husband looks her over from all sides and says, \"I slept with your cousin.\""
     },
     {
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " Why isn't the military accepting karate pros?<br>-<br>Because when they salute they might kill themselves."
+      "detail": " Why isn't the military accepting karate pros?<br>-Because when they salute they might kill themselves."
     },
     {
       "categoryid": "HilariousJokes",
@@ -581,7 +581,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " I am coughing and my nose is stuck. <br>-<br>Internet diagnosis: I am 26 weeks pregnant!"
+      "detail": " I am coughing and my nose is stuck. <br>-Internet diagnosis: I am 26 weeks pregnant!"
     },
     {
       "categoryid": "HilariousJokes",
@@ -611,7 +611,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " “Oh no, Roger, why did you two split up?” <br>-<br>“She’s a liar and a cheat! She said she was the whole night at her sister’s!”<br>-<br>“So? Maybe she was.”<br>-<br>“Yeah, no way. I was the whole night at her sister’s!”"
+      "detail": " “Oh no, Roger, why did you two split up?” <br>-“She’s a liar and a cheat! She said she was the whole night at her sister’s!”<br>-“So? Maybe she was.”<br>-“Yeah, no way. I was the whole night at her sister’s!”"
     },
     {
       "categoryid": "HilariousJokes",
@@ -623,7 +623,7 @@
       "categoryid": "HilariousJokes",
       "image": "",
       "title": "",
-      "detail": " \"Granny, why do you read obituaries every day?<br>-<br>Don't worry grandson. I just want to see who is single again.<br>"
+      "detail": " \"Granny, why do you read obituaries every day?<br>-Don't worry grandson. I just want to see who is single again.<br>"
     },
     {
       "categoryid": "HilariousJokes",

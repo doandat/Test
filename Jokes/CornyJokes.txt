@@ -6,7 +6,7 @@
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " Do you know what makes me smile?<br>-<br>My facial muscles.<br>"
+      "detail": " Do you know what makes me smile?<br>-My facial muscles.<br>"
     },
     {
       "categoryid": "CornyJokes",
@@ -18,7 +18,7 @@
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " Being a 24-year-old virgin sucked, I’m glad nobody can say that about me anymore.<br>-<br>I’m 25 now."
+      "detail": " Being a 24-year-old virgin sucked, I’m glad nobody can say that about me anymore.<br>-I’m 25 now."
     },
     {
       "categoryid": "CornyJokes",
@@ -36,13 +36,13 @@
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " What wouldn’t you find in a haunted house?<br>-<br>A living room."
+      "detail": " What wouldn’t you find in a haunted house?<br>-A living room."
     },
     {
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " Where do you bring horses that are sick?<br>-<br>To the horsepital."
+      "detail": " Where do you bring horses that are sick?<br>-To the horsepital."
     },
     {
       "categoryid": "CornyJokes",
@@ -60,13 +60,13 @@
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " &nbsp;Have you been picking your nose again?!<br>-<br>Why would I?! I’ve had it since I was born!"
+      "detail": " &nbsp;Have you been picking your nose again?!<br>-Why would I?! I’ve had it since I was born!"
     },
     {
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " What should we call an American bee?<br>-<br>A USB."
+      "detail": " What should we call an American bee?<br>-A USB."
     },
     {
       "categoryid": "CornyJokes",
@@ -90,7 +90,7 @@
       "categoryid": "CornyJokes",
       "image": "",
       "title": "",
-      "detail": " What do you call a totally unimportant elephant?<br>-<br>An Irrelephant. "
+      "detail": " What do you call a totally unimportant elephant?<br>-An Irrelephant. "
     },
     
   ]

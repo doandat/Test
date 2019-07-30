@@ -4,19 +4,19 @@
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Question: Where do you go in through one hole and come out through two holes at the same time?<br>-<br>Answer: By putting on your trousers."
+      "detail": " Question: Where do you go in through one hole and come out through two holes at the same time?<br>-Answer: By putting on your trousers."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Funny riddle: Peter’s smart phone fell into a big mug of coffee but didn’t get wet. How was this possible?<br><br>-<br><br>Answer: It was coffee powder."
+      "detail": " Funny riddle: Peter’s smart phone fell into a big mug of coffee but didn’t get wet. How was this possible?<br><br>-<br>Answer: It was coffee powder."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What is dirty after washing?<br><br>-<br><br>A: Your bath water."
+      "detail": " Q: What is dirty after washing?<br><br>-<br>A: Your bath water."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
@@ -28,19 +28,19 @@
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: A man on a flat soccer field kicked a soccer ball 40 feet away. The ball came back immediately at the same speed. No one else and no object have been involved. The ball didn’t touch anything on its way. How did the man do that?<br><br>-<br><br>A: He kicked the ball up in the air."
+      "detail": " Q: A man on a flat soccer field kicked a soccer ball 40 feet away. The ball came back immediately at the same speed. No one else and no object have been involved. The ball didn’t touch anything on its way. How did the man do that?<br><br>-<br>A: He kicked the ball up in the air."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: The more you take from me, the greater I become. What am I?<br>-<br>A: A hole."
+      "detail": " Q: The more you take from me, the greater I become. What am I?<br>-A: A hole."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Riddle: I move at a tremendous speed, as fast as a car, and yet I’m always at the same place. What am I?<br>-<br>Answer: A ventilator."
+      "detail": " Riddle: I move at a tremendous speed, as fast as a car, and yet I’m always at the same place. What am I?<br>-Answer: A ventilator."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
@@ -52,49 +52,49 @@
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: The more you take from me, the greater I become. What am I?<br>-<br>A: A hole."
+      "detail": " Q: The more you take from me, the greater I become. What am I?<br>-A: A hole."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Do you know what you can hold without ever touching it?<br>-<br>A: A conversation."
+      "detail": " Q: Do you know what you can hold without ever touching it?<br>-A: A conversation."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: How many sides are there to a circle? <br>-<br>A: Two. The inside and the outside."
+      "detail": " Q: How many sides are there to a circle? <br>-A: Two. The inside and the outside."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: The harder you hit me, the greater I become. What am I?<br>-<br>A: A crater."
+      "detail": " Q: The harder you hit me, the greater I become. What am I?<br>-A: A crater."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Nice riddle: What can answer in any language? What can speak without a mouth? What can sing without an ear?<br><br>-<br><br>Answer: An echo."
+      "detail": " Nice riddle: What can answer in any language? What can speak without a mouth? What can sing without an ear?<br><br>-<br>Answer: An echo."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What’s as big as an elephant but weighs 0 kg?<br>-<br>A: The elephant’s shadow."
+      "detail": " Q: What’s as big as an elephant but weighs 0 kg?<br>-A: The elephant’s shadow."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What has a tail and a head, but no body?<br><br>-<br><br>A: A nickel."
+      "detail": " Q: What has a tail and a head, but no body?<br><br>-<br>A: A nickel."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: If you feed me, I live. If you give me a drink, I die. What am I? <br>-<br> A: Fire"
+      "detail": " Q: If you feed me, I live. If you give me a drink, I die. What am I? <br>- A: Fire"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
@@ -106,25 +106,25 @@
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What has two legs but cannot walk?<br><br>-<br><br>A: A pair of trousers."
+      "detail": " Q: What has two legs but cannot walk?<br><br>-<br>A: A pair of trousers."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What falls down but is never injured?<br>-<br>A: The rain."
+      "detail": " Q: What falls down but is never injured?<br>-A: The rain."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What stays in the corner all the time but travels around the world?<br> <br>-<br> <br>A: Stamps."
+      "detail": " Q: What stays in the corner all the time but travels around the world?<br> <br>- <br>A: Stamps."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What gets quickly wet while drying?<br><br>-<br><br>A: The towel."
+      "detail": " Q: What gets quickly wet while drying?<br><br>-<br>A: The towel."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
@@ -136,211 +136,211 @@
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: How do you throw an egg on the floor without cracking it?<br><br>-<br><br> A: Unless you have very bad floors, throw the egg any which way. The floor shouldn’t crack from a simple egg throw."
+      "detail": " Q: How do you throw an egg on the floor without cracking it?<br><br>-<br> A: Unless you have very bad floors, throw the egg any which way. The floor shouldn’t crack from a simple egg throw."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: A pink girl with a pink dress, a pink cat, a pink hat and pink walls lives in a pink bungalow. What color are her stairs?<br>-<br>A: There are no stairs in a bungalow."
+      "detail": " Q: A pink girl with a pink dress, a pink cat, a pink hat and pink walls lives in a pink bungalow. What color are her stairs?<br>-A: There are no stairs in a bungalow."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Question: What do you call a camel with 4 humps?<br><br>-<br>&nbsp;&nbsp;&nbsp; <br> Answer: Pregnant. "
+      "detail": " Question: What do you call a camel with 4 humps?<br><br>-&nbsp;&nbsp;&nbsp; <br> Answer: Pregnant. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What disappears the second you start talking about it?<br>&nbsp;<br>-<br><br> A: Silence."
+      "detail": " Q: What disappears the second you start talking about it?<br>&nbsp;<br>-<br> A: Silence."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What word do all dictionaries spell wrong?<br><br>-<br><br>A: Wrong."
+      "detail": " Q: What word do all dictionaries spell wrong?<br><br>-<br>A: Wrong."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: How many seconds are there in a year?<br><br>-<br><br>A: Twelve. Second of January, second of February…"
+      "detail": " Q: How many seconds are there in a year?<br><br>-<br>A: Twelve. Second of January, second of February…"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: How can somebody walk for 8 days without sleeping? <br><br>-<br><br>A: He sleeps only at night."
+      "detail": " Q: How can somebody walk for 8 days without sleeping? <br><br>-<br>A: He sleeps only at night."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What can you see twice in a week, once in every year – but not once in million months?<br>-<br>A: The letter E."
+      "detail": " Q: What can you see twice in a week, once in every year – but not once in million months?<br>-A: The letter E."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q. Where does Friday always come before Thursday?<br><br>-<br><br>A: In a dictionary."
+      "detail": " Q. Where does Friday always come before Thursday?<br><br>-<br>A: In a dictionary."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Question: What has three ways out and just one way in?<br><br>-<br><br> Answer: A T-shirt!"
+      "detail": " Question: What has three ways out and just one way in?<br><br>-<br> Answer: A T-shirt!"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: You had 20 men build your house in two months. How long would it take 10 men to build the very same house? <br><br>-<br><br>A: Zero seconds. The house was already built by the 20 men."
+      "detail": " Q: You had 20 men build your house in two months. How long would it take 10 men to build the very same house? <br><br>-<br>A: Zero seconds. The house was already built by the 20 men."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What goes up when the water comes down?<br><br>-<br><br>A: An umbrella.<br>"
+      "detail": " Q: What goes up when the water comes down?<br><br>-<br>A: An umbrella.<br>"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What has one eye, four legs, and half an anus?<br><br>-<br><br>A: Half a lobster!"
+      "detail": " Q: What has one eye, four legs, and half an anus?<br><br>-<br>A: Half a lobster!"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: There’s a man who can tell the exact score before every soccer match. How on earth does he do that?<br><br>-<br><br>A: The score before every soccer match is known to everyone. It is always 0:0."
+      "detail": " Q: There’s a man who can tell the exact score before every soccer match. How on earth does he do that?<br><br>-<br>A: The score before every soccer match is known to everyone. It is always 0:0."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " &nbsp;What can you serve, but you seldom see eaten?<br><br>-<br><br>A volleyball."
+      "detail": " &nbsp;What can you serve, but you seldom see eaten?<br><br>-<br>A volleyball."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Maybe I can hear everything but you'll never hear me say a word. Who am I?<br><br>-<br><br>A: Your ear."
+      "detail": " Q: Maybe I can hear everything but you'll never hear me say a word. Who am I?<br><br>-<br>A: Your ear."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: When you take 2 out of 3 apples away, how many apples do you have?<br> <br>-<br> <br>A: The 2 apples you’ve taken with you. "
+      "detail": " Q: When you take 2 out of 3 apples away, how many apples do you have?<br> <br>- <br>A: The 2 apples you’ve taken with you. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: A man goes out in heavy rain with nothing to protect him from it. His hair doesn’t get wet. How does he do that?<br><br>-<br><br>A: He is bald."
+      "detail": " Q: A man goes out in heavy rain with nothing to protect him from it. His hair doesn’t get wet. How does he do that?<br><br>-<br>A: He is bald."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What table can you eat?<br>&nbsp;<br>-<br><br>A: A vegetable."
+      "detail": " Q: What table can you eat?<br>&nbsp;<br>-<br>A: A vegetable."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: On Thursday, a man went for a horseback trip on Friday and returned two days later on Saturday. How is that possible?<br><br>-<br><br>A: The horse’s name was Friday."
+      "detail": " Q: On Thursday, a man went for a horseback trip on Friday and returned two days later on Saturday. How is that possible?<br><br>-<br>A: The horse’s name was Friday."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " What only runs and never walks, what has a mouth and never eats, and has a bed but never sleeps?<br><br>-<br><br>A river."
+      "detail": " What only runs and never walks, what has a mouth and never eats, and has a bed but never sleeps?<br><br>-<br>A river."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: On which side do chickens have the most feathers?<br><br>-<br><br>A: On the outside."
+      "detail": " Q: On which side do chickens have the most feathers?<br><br>-<br>A: On the outside."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What insect needs to eat the least?<br><br>-<br><br>A: The moth – it only eats holes."
+      "detail": " Q: What insect needs to eat the least?<br><br>-<br>A: The moth – it only eats holes."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What’s got feathers but no wings?<br><br>-<br><br>A: Your pillow."
+      "detail": " Q: What’s got feathers but no wings?<br><br>-<br>A: Your pillow."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: You can sleep on it, brush your teeth with it and sit on it, what is it?<br> <br>-<br><br>A: A bed, a tooth brush, and a chair."
+      "detail": " Q: You can sleep on it, brush your teeth with it and sit on it, what is it?<br> <br>-<br>A: A bed, a tooth brush, and a chair."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What spends all the time on the floor but never gets dirty?<br><br>-<br><br> A: Your shadow."
+      "detail": " Q: What spends all the time on the floor but never gets dirty?<br><br>-<br> A: Your shadow."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What is the longest word in the English language?<br><br>-<br><br>A: Smiles. There’s a whole mile between the two Ss."
+      "detail": " Q: What is the longest word in the English language?<br><br>-<br>A: Smiles. There’s a whole mile between the two Ss."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " <br>Q: In what glasses shouldn’t you pour apple juice?<br><br>-<br><br>A: The already full ones."
+      "detail": " <br>Q: In what glasses shouldn’t you pour apple juice?<br><br>-<br>A: The already full ones."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: When does a man really like being alone? <br><br>-<br><br>A: When he becomes an heir."
+      "detail": " Q: When does a man really like being alone? <br><br>-<br>A: When he becomes an heir."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: A doctor gave you 3 pills that you have to take every half hour. How long does it take you to use them all?<br><br>-<br><br>A: One hour. You took the first one immediately."
+      "detail": " Q: A doctor gave you 3 pills that you have to take every half hour. How long does it take you to use them all?<br><br>-<br>A: One hour. You took the first one immediately."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: A guy is driving down the road, his headlights are off, there is no moon. There’s a guy dressed all in black standing in the middle of the road, facing away from the car. The guy in the car swerves and doesn’t hit the guy dressed all in black. How come? <br>-<br>It was 1:30 in the afternoon."
+      "detail": " Q: A guy is driving down the road, his headlights are off, there is no moon. There’s a guy dressed all in black standing in the middle of the road, facing away from the car. The guy in the car swerves and doesn’t hit the guy dressed all in black. How come? <br>-It was 1:30 in the afternoon."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Question: Why can't the T-rex clap? <br><br>-<br><br>Answer: Because he's extinct. "
+      "detail": " Question: Why can't the T-rex clap? <br><br>-<br>Answer: Because he's extinct. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: When can a man walk on water?<br><br>-<br><br>A: When the water gets really cold."
+      "detail": " Q: When can a man walk on water?<br><br>-<br>A: When the water gets really cold."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: A question in a math class. You have 2 apples in your hand and then you add another 4 apples in your hand. What do you have?<br><br>-<br><br>A: A very big hand. "
+      "detail": " Q: A question in a math class. You have 2 apples in your hand and then you add another 4 apples in your hand. What do you have?<br><br>-<br>A: A very big hand. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What question can never be answered with a yes?<br><br>-<br><br>A: Are you asleep? (or Are you dead?)"
+      "detail": " Q: What question can never be answered with a yes?<br><br>-<br>A: Are you asleep? (or Are you dead?)"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
@@ -352,139 +352,139 @@
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " A: Who earns money without working a single day?<br><br>-<br><br>Q: The night watchman."
+      "detail": " A: Who earns money without working a single day?<br><br>-<br>Q: The night watchman."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: There are 10 birds sitting on a power line. A hunter shoots two of them, how many birds are left still sitting there?<br>-<br>A: None, they all took off after the loud bang of the shot."
+      "detail": " Q: There are 10 birds sitting on a power line. A hunter shoots two of them, how many birds are left still sitting there?<br>-A: None, they all took off after the loud bang of the shot."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Who can smell without having a nose? <br><br>-<br><br>A: The cheese. "
+      "detail": " Q: Who can smell without having a nose? <br><br>-<br>A: The cheese. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Why do people build new houses?<br><br>-<br><br>A: Because it’s impossible to build old houses."
+      "detail": " Q: Why do people build new houses?<br><br>-<br>A: Because it’s impossible to build old houses."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Who lives an exhausting life? <br><br>-<br><br>A: The exhaust."
+      "detail": " Q: Who lives an exhausting life? <br><br>-<br>A: The exhaust."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What goes swimming with you but never gets wet?<br><br>-<br><br>A: Your shadow."
+      "detail": " Q: What goes swimming with you but never gets wet?<br><br>-<br>A: Your shadow."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What is the difference between a car and toilet paper?<br><br>-<br><br>A: It’s perfectly OK to buy a used car."
+      "detail": " Q: What is the difference between a car and toilet paper?<br><br>-<br>A: It’s perfectly OK to buy a used car."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " A: What do you call the fruits of anger? <br><br>-<br><br>Q: Smacks. "
+      "detail": " A: What do you call the fruits of anger? <br><br>-<br>Q: Smacks. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Who is the biggest victim of the yo-yo effect?<br><br>-<br><br>A: The moon. It gains and loses every month. "
+      "detail": " Q: Who is the biggest victim of the yo-yo effect?<br><br>-<br>A: The moon. It gains and loses every month. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What nails are a pain to hammer into wood?<br><br>-<br><br>A: Your finger nails."
+      "detail": " Q: What nails are a pain to hammer into wood?<br><br>-<br>A: Your finger nails."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What animal turns about 200 times around its axis after it dies?<br> <br>-<br> <br>A: A roast chicken."
+      "detail": " Q: What animal turns about 200 times around its axis after it dies?<br> <br>- <br>A: A roast chicken."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Which lion is a very good swimmer?<br><br>-<br><br>A: The sea-lion."
+      "detail": " Q: Which lion is a very good swimmer?<br><br>-<br>A: The sea-lion."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: What question do you always have to answer with “Yes”?<br> <br>-<br><br>A: How to spell the word YES."
+      "detail": " Q: What question do you always have to answer with “Yes”?<br> <br>-<br>A: How to spell the word YES."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: How many months in the year have 28 days?<br><br>-<br><br>A: All of them."
+      "detail": " Q: How many months in the year have 28 days?<br><br>-<br>A: All of them."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " <b>More funny riddles and answers: </b><br><br><br>Q: What has 6 feet and sings?<br> <br>-<br><br>A: The singing trio. "
+      "detail": " <b>More funny riddles and answers: </b><br><br><br>Q: What has 6 feet and sings?<br> <br>-<br>A: The singing trio. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Prank question: <br><br>Which hand do you use to wipe your butt?<br>-<br>The right one, what an odd question?<br>-<br>Oh, I simply use toilet paper…"
+      "detail": " Prank question: <br><br>Which hand do you use to wipe your butt?<br>-The right one, what an odd question?<br>-Oh, I simply use toilet paper…"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: The more he has the less he weighs. What is it?<br><br>-<br><br>A: Cheese with holes."
+      "detail": " Q: The more he has the less he weighs. What is it?<br><br>-<br>A: Cheese with holes."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: You have a basket with 20 apples. You have 20 hungry children. Every child should get an apple but one apple should remain in the basket. How do you do that?<br><br>-<br><br>A: You give 19 children one apple each and to the last one you give the basket containing the last apple. "
+      "detail": " Q: You have a basket with 20 apples. You have 20 hungry children. Every child should get an apple but one apple should remain in the basket. How do you do that?<br><br>-<br>A: You give 19 children one apple each and to the last one you give the basket containing the last apple. "
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " What is at the center of Earth?<br><br>-<br><br>An R. (eaRth)"
+      "detail": " What is at the center of Earth?<br><br>-<br>An R. (eaRth)"
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: Who eats a lot of iron without getting sick?<br><br>-<br><br>A: The rust."
+      "detail": " Q: Who eats a lot of iron without getting sick?<br><br>-<br>A: The rust."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: When a child is going to school for the first time, where will it sit?<br> <br>-<br> <br>A: Nowhere, it is still going."
+      "detail": " Q: When a child is going to school for the first time, where will it sit?<br> <br>- <br>A: Nowhere, it is still going."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": " Q: A glider lands precisely on the border between the US and Canada, one wing in each country. Which country gets the engine?<br>-<br>A: Gliders have no engine."
+      "detail": " Q: A glider lands precisely on the border between the US and Canada, one wing in each country. Which country gets the engine?<br>-A: Gliders have no engine."
     },
     {
       "categoryid": "FunnyRiddlesAnswersJokes",
       "image": "",
       "title": "",
-      "detail": "Q: How much earth lies in a hole 3 feet deep and 3 feet wide?<br><br>-<br><br> A: None. It wouldn’t be a hole anymore if there were earth in it. "
+      "detail": "Q: How much earth lies in a hole 3 feet deep and 3 feet wide?<br><br>-<br> A: None. It wouldn’t be a hole anymore if there were earth in it. "
     }
   ]
 }

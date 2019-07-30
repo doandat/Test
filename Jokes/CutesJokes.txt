@@ -64,7 +64,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": "Why do dolphins swim in salt water? <br>-<br>Because pepper water would make them sneeze."
+      "detail": "Why do dolphins swim in salt water? <br>-Because pepper water would make them sneeze."
     },
     {
       "categoryid": "CutesJokes",
@@ -76,7 +76,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " What did the stamp say to the envelope? <br>-<br>You stick with me and I will take you places!"
+      "detail": " What did the stamp say to the envelope? <br>-You stick with me and I will take you places!"
     },
     {
       "categoryid": "CutesJokes",
@@ -106,7 +106,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " Daughter asks her mother, “Mum, how long have you been married to dad?”<br> -<br> “Ten years.”<br>-<br>“Oh, and how many do you still have left?”"
+      "detail": " Daughter asks her mother, “Mum, how long have you been married to dad?”<br> -<br> “Ten years.”<br>-“Oh, and how many do you still have left?”"
     },
     {
       "categoryid": "CutesJokes",
@@ -208,7 +208,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " How does a monkey ring the doorbell?<br>-<br>King Kong! King Kong!"
+      "detail": " How does a monkey ring the doorbell?<br>-King Kong! King Kong!"
     },
     {
       "categoryid": "CutesJokes",
@@ -256,7 +256,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " A duck walks into a bar.<br><br>&nbsp;It asks the barkeeper: “Do you have bread?”<br><br> Bartender: “No.”<br><br>Duck: “Do you have bread?”<br>-<br> Bartender: “NO!”<br>-<br>Duck: “Do you…”<br><br>Bartender: “LISTEN! I HAVE NO BREAD AND IF YOU ASK ME ONE MORE TIME, I’M GONNA NAIL YOU TO THAT WALL!!!”<br><br>Duck: “Do you have nails?”<br><br>Bartender: “NO!”<br><br> Duck: “Do you have bread?”"
+      "detail": " A duck walks into a bar.<br><br>&nbsp;It asks the barkeeper: “Do you have bread?”<br><br> Bartender: “No.”<br><br>Duck: “Do you have bread?”<br>- Bartender: “NO!”<br>-Duck: “Do you…”<br><br>Bartender: “LISTEN! I HAVE NO BREAD AND IF YOU ASK ME ONE MORE TIME, I’M GONNA NAIL YOU TO THAT WALL!!!”<br><br>Duck: “Do you have nails?”<br><br>Bartender: “NO!”<br><br> Duck: “Do you have bread?”"
     },
     {
       "categoryid": "CutesJokes",
@@ -364,7 +364,7 @@
       "categoryid": "CutesJokes",
       "image": "",
       "title": "",
-      "detail": " Why is it that bicycles fall over so often? <br>-<br>They are two-tired. "
+      "detail": " Why is it that bicycles fall over so often? <br>-They are two-tired. "
     },
     {
       "categoryid": "CutesJokes",

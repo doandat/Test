@@ -124,7 +124,7 @@
       "categoryid": "BadJokes",
       "image": "",
       "title": "",
-      "detail": "What is yellow and cannot swim?<br>-<br>An excavator!<br>-<br>And why?<br>-<br> Because it only has one arm."
+      "detail": "What is yellow and cannot swim?<br>-An excavator!<br>-And why?<br>- Because it only has one arm."
     },
     {
       "categoryid": "BadJokes",
@@ -220,19 +220,19 @@
       "categoryid": "BadJokes",
       "image": "",
       "title": "",
-      "detail": " How can you open a banana? <br>-<br>With a monkey! "
+      "detail": " How can you open a banana? <br>-With a monkey! "
     },
     {
       "categoryid": "BadJokes",
       "image": "",
       "title": "",
-      "detail": " What would you call a very funny mountain? <br>-<br>Hill Arious\""
+      "detail": " What would you call a very funny mountain? <br>-Hill Arious\""
     },
     {
       "categoryid": "BadJokes",
       "image": "",
       "title": "",
-      "detail": " Question: What is green and has big, sturdy wheels?<br>-<br>Answer: The grass. The wheels were a lie."
+      "detail": " Question: What is green and has big, sturdy wheels?<br>-Answer: The grass. The wheels were a lie."
     },
     {
       "categoryid": "BadJokes",
@@ -346,7 +346,7 @@
       "categoryid": "BadJokes",
       "image": "",
       "title": "",
-      "detail": " What is white and rolls up a mountain slope?<br>-<br>An avalanche who wants to get home because it’s gotten dark already."
+      "detail": " What is white and rolls up a mountain slope?<br>-An avalanche who wants to get home because it’s gotten dark already."
     },
     {
       "categoryid": "BadJokes",
