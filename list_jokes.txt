@@ -3,7 +3,7 @@
   "message": "",
   "isPassAppstore": false,
   "isForceAppstoreReviewing": false,
-  "isPassAOSStore": false,
+  "isPassAOSStore": true,
   "isForceAOSReviewing": false,
   "result": [
     {
