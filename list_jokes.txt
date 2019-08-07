@@ -1,9 +1,9 @@
 {
   "code": 200,
   "message": "",
-  "isPassAppstore": false,
+  "isPassAppstore": true,
   "isForceAppstoreReviewing": false,
-  "isPassAOSStore": false,
+  "isPassAOSStore": true,
   "isForceAOSReviewing": false,
   "result": [
     {
